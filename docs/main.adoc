@@ -7,7 +7,8 @@ include::../shared/translation.adoc[]
 :icons: font
 :toc: left
 :toclevels: 2
-:sectanchors:imanges/digitaliseringsdirektoratet.png[pdfwidth=30vw]
+:sectanchors:
+:title-logo-image: images:imanges/digitaliseringsdirektoratet.png[pdfwidth=30vw]
 
 image::images/digitaliseringsdirektoratet.png[width=50%, pdfwidth=30vw]
 Publisert: <kommer>
@@ -25,3 +26,6 @@ include::../shared/download.adoc[]
 // :leveloffset: +1
 
 // Innhold her.
+
+include::forord.adoc[]
+include::../shared/stats.adoc[]
