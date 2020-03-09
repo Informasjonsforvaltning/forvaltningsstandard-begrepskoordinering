@@ -1,0 +1,27 @@
+include::../shared/translation.adoc[]
+
+= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 1.0
+:description: Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering
+:doctype: book
+:docinfo:
+:icons: font
+:toc: left
+:toclevels: 2
+:sectanchors:imanges/digitaliseringsdirektoratet.png[pdfwidth=30vw]
+
+image::images/digitaliseringsdirektoratet.png[width=50%, pdfwidth=30vw]
+Publisert: <kommer>
+
+WARNING: under publisering (kommer). 
+
+//:sectnums:
+
+//:sectnumlevels: 3
+
+//{description}
+
+include::../shared/download.adoc[]
+
+// :leveloffset: +1
+
+// Innhold her.
