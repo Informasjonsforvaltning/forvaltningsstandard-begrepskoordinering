@@ -28,4 +28,6 @@ include::../shared/download.adoc[]
 // Innhold her.
 
 include::forord.adoc[]
+
+
 include::../shared/stats.adoc[]
