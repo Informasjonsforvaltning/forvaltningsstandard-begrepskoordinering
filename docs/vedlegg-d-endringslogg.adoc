@@ -1,0 +1,9 @@
+== Vedlegg D (informativt) - Viktigste endringer fra versjon 1 til denne versjon av standarden [[vedlegg-d]]
+
+Viktigste endringer fra versjon 1 til denne versjon av standarden:
+
+* Tittelen til standarden er endret, som nå gjenspeiler både at dette er en forvaltningsstandard og at standarden også omfatter begrepsharmonisering.
+* Termen _begrepskoordinering_ er nå for overbegrepet over ‘begrepsharmonisering’ og ‘begrepsdifferensiering’, mens den i forrige versjon var term for begrepet ‘begrepsdifferensiering’.
+* Omfanget er utvidet fra begrepsdifferensiering (omtalt som _begrepskoordinering_ i forrige versjon), til nå også begrepsharmonisering.
+* Denne versjonen av standarden fokuserer på terminologifaglige aspekter av denne type arbeid, og henviser til andre ressurser når det gjelder ikke-terminologifaglige aspekter som f.eks. prosjektorganisering og prosjektgjennomføring generelt.
+* I denne versjonen er det laget en modell for å illustrere prosessen. Hensikten med modellen er å formidle de overordnete stegene i prosessen og den er ikke modellert i henhold et gitt modelleringspråk.

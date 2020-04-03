@@ -1,0 +1,38 @@
+== Prosessmodell for harmonisering eller differensiering av begreper [[prosessmodell]]
+
+Denne standarden beskriver en prosessmodell for harmonisering eller differensiering av begreper.
+
+Standarden forutsetter at omfanget er avgrenset og begrepene er definert og beskrevet i henhold til https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/[_Forvaltningsstandard for begrepsbeskrivelser_]. Dersom ikke det er gjort, bør dere gå til forarbeid (<<vedlegg-c, vedlegg C>>, informativt).
+
+Dette kapitlet beskriver hva dere skal oppnå med de ulike stegene. Dere finner utdypende beskrivelser av hvordan dere gjennomfører hvert steg i <<vedlegg-a, vedlegg A>> (informativt).
+
+.Prosessmodell for begrepsharmonisering eller begrepsdifferensiering.
+image::images/prosessmodell.png[]
+
+
+=== Steg 1: Sammenstilling av begreper [[steg1]]
+
+Målet er å finne likheter og forskjeller mellom begrepene ved å sammenstille begrepene som skal harmoniseres eller differensieres.
+
+=== Steg 2: Valg mellom begrepsharmonisering eller begrepsdifferensiering [[steg2]]
+
+Målet er å velge et realistisk mål for et koordineringsarbeid, som  er:
+
+["upperalpha"]
+. å harmonisere begrepene (begrepsharmonisering)
+. å differensiere begrepene (begrepsdifferensiering)
+. å konkludere at verken begrepsharmonisering eller begrepsdifferensiering er aktuelt
+
+I et sett av begreper kan utfallet bli at noen av begrepene blir harmonisert, mens andre blir differensiert.
+
+=== Steg 3: Begrepsharmonisering [[steg3]]
+
+Målet er å komme fram til et eller flere felles begreper som alle involverte skal bruke, inkludert felles term.
+
+=== Steg 4: Begrepsdifferensiering [[steg4]]
+
+Målet er å tydeliggjøre forskjeller mellom begreper som ikke kan harmoniseres.
+
+=== Steg 5: Enighet om forvaltningsmodell [[steg5]]
+
+Målet er å bli enige om en modell for å forvalte de harmoniserte eller differensierte begrepene.
