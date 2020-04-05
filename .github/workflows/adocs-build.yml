@@ -28,9 +28,8 @@ jobs:
       with:
           program: "asciidoctor-epub3 -D docs -o document.epub docs/main.adoc"
       continue-on-error: true
-    - name: Deploy docs to ghpages
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
       with:
-          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: master # The branch the action should deploy to.
-          FOLDER: docs # The folder the action should deploy.
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
