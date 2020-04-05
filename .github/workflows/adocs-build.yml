@@ -17,13 +17,13 @@ jobs:
       with:
           program: "asciidoctor -D docs --backend=html5 -o index.html docs/main.adoc"
     - name: Build pdf
-      id: adocbuild
+      id: adocbuild_pdf
       uses: avattathil/asciidoctor-action@master
       with:
           program: "asciidoctor-pdf -D docs -o document.pdf docs/main.adoc"
       continue-on-error: true
     - name: Build epub3
-      id: adocbuild
+      id: adocbuild_epub3
       uses: avattathil/asciidoctor-action@master
       with:
           program: "asciidoctor-epub3 -D docs -o document.epub docs/main.adoc"
