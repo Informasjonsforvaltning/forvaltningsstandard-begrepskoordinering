@@ -1,19 +1,21 @@
-include::../shared/translation.adoc[]
-
-= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 1.0
+= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0
 :description: Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering
 :doctype: book
 :docinfo:
 :icons: font
 :toc: left
-:toclevels: 2
+:toc-title: Innholdsfortegnelse
+:toclevels: 4
 :sectanchors:
-:title-logo-image: images:imanges/digitaliseringsdirektoratet.png[pdfwidth=30vw]
+:table-stripes: odd
+:imagesdir: images
+:title-logo-image: image:digitaliseringsdirektoratet.png[pdfwidth=30vw]
 
-image::images/digitaliseringsdirektoratet.png[width=50%, pdfwidth=30vw]
-Publisert: <kommer>
+image::digitaliseringsdirektoratet.png[width=50%, pdfwidth=30vw]
 
-WARNING: under publisering (kommer). 
+Publisert: <under publisering>
+
+WARNING: under publisering (små justeringer kan komme).
 
 //:sectnums:
 
@@ -21,13 +23,30 @@ WARNING: under publisering (kommer).
 
 //{description}
 
-include::../shared/download.adoc[]
+include::shared/download.adoc[]
 
 // :leveloffset: +1
 
 // Innhold her.
 
-include::forord.adoc[]
+include::00-forord.adoc[]
 
+include::01-formål-omfang-avgrensinger.adoc[]
 
-include::../shared/stats.adoc[]
+include::02-normative-referanser.adoc[]
+
+include::03-termer-og-definisjoner.adoc[]
+
+include::04-prosessmodell.adoc[]
+
+include::vedlegg-a-utdypende-beskrivelse.adoc[]
+
+include::vedlegg-b-eksempler.adoc[]
+
+include::vedlegg-c-forarbeid.adoc[]
+
+include::vedlegg-d-endringslogg.adoc[]
+
+include::shared/stats.adoc[]
+
+include::shared/translation.adoc[]

@@ -1,0 +1,11 @@
+== Normative referanser
+
+Følgende referanser er normative og danner grunnlag for denne standarden:
+
+* https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/termlosen[_Termlosen_]: en forvaltningsstandard som gir en kort innføring i begrepsanalyse og terminologiarbeid.
+
+* ISO 1087:2019 _Terminology work and terminology science — Vocabulary_: internasjonal standard som definerer sentrale begreper i terminologi- og begrepsarbeid.
+
+* ISO 860:2007 _Terminology work — Harmonization of concepts and terms_: internasjonal standard for begrepsharmonisering.
+
+* https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/[_Forvaltningsstandard for begrepsbeskrivelser]_: norsk forvaltningsstandard for beskrivelse av begreper.
