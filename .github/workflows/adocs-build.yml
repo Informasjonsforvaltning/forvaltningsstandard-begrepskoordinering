@@ -7,17 +7,27 @@ on:
 jobs:
   adoc_build:
     runs-on: ubuntu-18.04
-    name: asciidoctor -D . --backend=html5 -o index.html -a toc2 docs/main.adoc
+    name: asciidoctor build
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-    - name: Get build container
+    - name: Build html
       id: adocbuild
       uses: avattathil/asciidoctor-action@master
       with:
-          program: "asciidoctor -D . --backend=html5 -o index.html docs/main.adoc"
-    - name: Print execution time
-      run: echo "Time ${{ steps.adocbuild.outputs.time }}"
+          program: "asciidoctor -D docs --backend=html5 -o index.html docs/main.adoc"
+    - name: Build pdf
+      id: adocbuild
+      uses: avattathil/asciidoctor-action@master
+      with:
+          program: "asciidoctor-pdf -D docs -o document.pdf docs/main.adoc"
+      continue-on-error: true
+    - name: Build epub3
+      id: adocbuild
+      uses: avattathil/asciidoctor-action@master
+      with:
+          program: "asciidoctor-epub3 -D docs -o document.epub docs/main.adoc"
+      continue-on-error: true
     - name: Deploy docs to ghpages
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
