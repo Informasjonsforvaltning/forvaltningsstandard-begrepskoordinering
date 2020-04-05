@@ -1,0 +1,52 @@
+= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0
+:description: Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering
+:doctype: book
+:docinfo:
+:icons: font
+:toc: left
+:toc-title: Innholdsfortegnelse
+:toclevels: 4
+:sectanchors:
+:table-stripes: odd
+:imagesdir: images
+:title-logo-image: image:digitaliseringsdirektoratet.png[pdfwidth=30vw]
+
+image::digitaliseringsdirektoratet.png[width=50%, pdfwidth=30vw]
+
+Publisert: <under publisering>
+
+WARNING: under publisering (små justeringer kan komme).
+
+//:sectnums:
+
+//:sectnumlevels: 3
+
+//{description}
+
+include::shared/download.adoc[]
+
+// :leveloffset: +1
+
+// Innhold her.
+
+include::00-forord.adoc[]
+
+include::01-formål-omfang-avgrensinger.adoc[]
+
+include::02-normative-referanser.adoc[]
+
+include::03-termer-og-definisjoner.adoc[]
+
+include::04-prosessmodell.adoc[]
+
+include::vedlegg-a-utdypende-beskrivelse.adoc[]
+
+include::vedlegg-b-eksempler.adoc[]
+
+include::vedlegg-c-forarbeid.adoc[]
+
+include::vedlegg-d-endringslogg.adoc[]
+
+include::shared/stats.adoc[]
+
+include::shared/translation.adoc[]
