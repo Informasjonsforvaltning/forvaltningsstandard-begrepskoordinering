@@ -161,7 +161,7 @@ I termbasen Snorre finner virksomhetene følgende definisjoner som virksomhetene
 
 Steg 1.3 Ettersom begrepene har relasjon til hverandre, tegner virksomhetene hvert sitt begrepsdiagram basert på en inndeling (inndelingskriterium) fra hvor vannet kommer fra, dvs. vannets opphav.
 
-image::images/avlopsvann1.png[]
+image::avlopsvann1.png[]
 
 Virksomhetene tegner ikke opp begrepsdiagram basert på de to tekniske standardene siden definisjonene i for liten grad uttrykker begrepsrelasjonene. De velger likevel å ta med seg definisjonene videre i arbeidet.
 
@@ -228,7 +228,7 @@ Begrepene ‘gråvann’ og ‘svartvann’ blir fastsatt som underbegreper til 
 
 Virksomheten tegner opp et nytt, felles begrepsdiagram:
 
-image::images/avlopsvann2.png[]
+image::avlopsvann2.png[]
 
 Med utgangspunkt i det nye, felles begrepssystemet blir virksomhet A og virksomhet B enige om følgende termer og definisjoner:
 
@@ -413,7 +413,7 @@ Steg 1.3 Virksomhetene tegner opp hvert sitt begrepsdiagram:
 
 Virksomhetene tegner hvert sitt begrepsdiagram med overbegrepet ‘student’ og de to underbegrepene ‘heltidsstudent’ og ‘deltidsstudent’ med inndelingskriteriet ‘studieprogresjon’.
 
-image:images/heltidsstudent.png[]
+image:heltidsstudent.png[]
 
 
 Steg 1.4 Virksomhetene stiller opp termene, definisjonene med kilder ved siden av hverandre:

@@ -5,7 +5,7 @@ Denne standarden handler om harmonisering og differensiering av begreper. Standa
 Dette informative vedlegget gir veiledning og tips til hvordan man avgrenser omfang og definerer begreper.
 
 .Prosessmodell for forarbeid.
-image::images/forarbeid.png[]
+image::forarbeid.png[]
 
 === Avgrensing av omfang
 

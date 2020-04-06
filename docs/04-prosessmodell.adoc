@@ -7,7 +7,7 @@ Standarden forutsetter at omfanget er avgrenset og begrepene er definert og besk
 Dette kapitlet beskriver hva dere skal oppnå med de ulike stegene. Dere finner utdypende beskrivelser av hvordan dere gjennomfører hvert steg i <<vedlegg-a, vedlegg A>> (ikke-normativt).
 
 .Prosessmodell for begrepsharmonisering eller begrepsdifferensiering.
-image::images/prosessmodell.png[]
+image::prosessmodell.png[]
 
 
 === Steg 1: Sammenstilling av begreper [[steg1]]
