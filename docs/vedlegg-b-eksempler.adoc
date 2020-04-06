@@ -187,9 +187,9 @@ Overbegrepet i de to diagrammene er nokså overlappende. Definisjonen til virkso
 
 Definisjonene til underbegrepene antyder at begrepsparet ‘gråvann’ og ‘svartvann’ ikke overlapper begrepsparet ‘spillvann’ og ‘overvann’, men er svært relaterte siden de bygger på samme inndelingskriterium (opphav).
 
-Definisjonene fra standardene antyder at de vesentlige kjennetegnene til ‘gråvann’ og ‘svartvann’ er +++<u>+++vannets innhold+++</u>+++, og at de dermed er underordnet ‘spillvann’, som bygger på det vesentlige kjennetegnet +++<u>+++opphav+++</u>+++.
+Definisjonene fra standardene antyder at de vesentlige kjennetegnene til ‘gråvann’ og ‘svartvann’ er [.underline]#vannets innhold#, og at de dermed er underordnet ‘spillvann’, som bygger på det vesentlige kjennetegnet [.underline]#opphav#.
 
-Termer: +
+Termer:
 Virksomhet A bruker termen _avløpsvann_ for overbegrepet, mens virksomhet B bruker termen _kloakk. _Imidlertid benytter virksomhet B seg også av synonymet _avløpsvann_.
 
 *Steg 2: Valg mellom begrepsharmonisering eller begrepsdifferensiering*
@@ -222,9 +222,9 @@ Først etableres et felles overbegrep (‘avløpsvann’) ved at virksomhet A ak
 
 Virksomhet B aksepterer at termen _kloakk_ blir erstattet med termen _avløpsvann_.
 
-Begrepene ‘spillvann’ og ‘overvann’ blir fastsatt som underbegreper til ‘avløpsvann’ ved å ta utganspunkt i inndelingskriteriet +++<u>+++vannets opphav+++</u>+++.
+Begrepene ‘spillvann’ og ‘overvann’ blir fastsatt som underbegreper til ‘avløpsvann’ ved å ta utganspunkt i inndelingskriteriet [.underline]#vannets opphav#.
 
-Begrepene ‘gråvann’ og ‘svartvann’ blir fastsatt som underbegreper til ‘spillvann’ ved å ta utgangspunkt i inndelingskriteriet +++<u>+++vannets innhold+++</u>+++ for å tydeliggjøre forskjellene mellom begrepene.
+Begrepene ‘gråvann’ og ‘svartvann’ blir fastsatt som underbegreper til ‘spillvann’ ved å ta utgangspunkt i inndelingskriteriet [.underline]#vannets innhold# for å tydeliggjøre forskjellene mellom begrepene.
 
 Virksomheten tegner opp et nytt, felles begrepsdiagram:
 
@@ -407,7 +407,7 @@ Steg 1.4 Virksomhetene stiller opp termene og definisjonene med kilder ved siden
 |definisjon|student som har planlagt minst 75 % studieprogresjon|student som har planlagt 100 % studieprogresjon|
 |===
 
-Virksomheten finner at de bruker samme type kjennetegn (+++<u>+++studieprogresjon+++</u>+++), men med ulik verdi. Under arbeidet ser de at begrepsdefinisjonene er betinget av det beslektede begrepet ‘deltidsstudent’. De inkluderer derfor deltidsstudent i det videre arbeidet. Ettersom det nå er flere begreper som har relasjon til hverandre, velger virksomhetene å gå tilbake til steg 1.3 og tegner opp begrepsdiagrammer.
+Virksomheten finner at de bruker samme type kjennetegn ([.underline]#studieprogresjon#), men med ulik verdi. Under arbeidet ser de at begrepsdefinisjonene er betinget av det beslektede begrepet ‘deltidsstudent’. De inkluderer derfor deltidsstudent i det videre arbeidet. Ettersom det nå er flere begreper som har relasjon til hverandre, velger virksomhetene å gå tilbake til steg 1.3 og tegner opp begrepsdiagrammer.
 
 Steg 1.3 Virksomhetene tegner opp hvert sitt begrepsdiagram:
 
