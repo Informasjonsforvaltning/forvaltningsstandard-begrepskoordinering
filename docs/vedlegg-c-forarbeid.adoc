@@ -82,7 +82,7 @@ For å identifisere hvem som forvalter og bruker begrepene og hvem begrepene ang
 
 ==== Forslag til framgangsmåte
 
-https://www.prosjektveiviseren.no/god-praksis/viktige-tema-i-alle-faser/interessenter[_Prosjektveiviseren]_ gir en god veiledning på interessentanalyse:
+https://www.prosjektveiviseren.no/god-praksis/viktige-tema-i-alle-faser/interessenter[_Prosjektveiviseren_] gir en god veiledning på interessentanalyse:
 
 ==== Tips
 Det kan være en god idé å stille følgende spørsmål:
@@ -99,7 +99,7 @@ Det kan være en god idé å stille følgende spørsmål:
 For å sikre at riktige deltakere med riktig kompetanse er med i arbeidet, og at rollene er tydeliggjort.
 
 ==== Forslag til framgangsmåte
-https://www.prosjektveiviseren.no/[_Prosjektveiviseren]_ gir en god veiledning om bl.a. prosjektorganisering.
+https://www.prosjektveiviseren.no/[_Prosjektveiviseren_] gir en god veiledning om bl.a. prosjektorganisering.
 
 De inviterte virksomhetene bør ta med seg en liste over de aktuelle begrepene som ønskes vurdert til prosjektet.
 
@@ -126,6 +126,6 @@ Følg terminologiske metoder ved fastsetting av termer og definisjoner: analyser
 ==== Tips
 https://www.sprakradet.no/Sprakarbeid/Terminologi/[Språkrådets nettsider] gir mer informasjon om terminologi.
 
-https://www.difi.no/referansekatalogen/begrepsanalyse-og-definisjonsarbeid[_Referansekatalogen]_ inneholder relevante standarder for begrepsanalyse og definisjonsarbeid, inkl. _Termlosen_.
+https://www.difi.no/referansekatalogen/begrepsanalyse-og-definisjonsarbeid[_Referansekatalogen_] inneholder relevante standarder for begrepsanalyse og definisjonsarbeid, inkl. _Termlosen_.
 
 Begrepene kan dokumenteres ved hjelp av f.eks. et tekstdokument, regneark, informasjonsmodell eller en begrepsmodell.
