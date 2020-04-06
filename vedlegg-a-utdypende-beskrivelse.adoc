@@ -1,4 +1,4 @@
-== Vedlegg A (informativt) - utdypende beskrivelse av stegene i prosessmodell  [[vedlegg-a]]
+== Vedlegg A (ikke-normativt) - utdypende beskrivelse av stegene i prosessmodell  [[vedlegg-a]]
 
 I dette vedlegget utdypes stegene i <<prosessmodell, prosessmodellen>> (figur 1) i den normative delen av standarden.
 
@@ -148,7 +148,7 @@ Forskjeller i begrepene kan bli tydeliggjort på en eller flere av følgende må
 2. Endring i term:
 
 * Ved å lage en helt ny term for et eller flere av begrepene
-* Ved å legge til et ordledd til en eller flere av termene, f.eks. _godtgjørelse_ > +++<u>+++_reise_+++</u>+++_godtgjørelse_
+* Ved å legge til et ordledd til en eller flere av termene, f.eks. _godtgjørelse_ > [.underline]#_reise_#_godtgjørelse_
 * Ved å legge til et ord eller en ordgruppe til en eller flere av termene, f.eks. _gjennomføringsgrad_ > _gjennomføringsgrad per startkull_
 
 3. Tydeliggjøring i en merknad til definisjonen.

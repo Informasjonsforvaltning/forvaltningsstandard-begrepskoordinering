@@ -2,9 +2,9 @@
 
 Denne standarden beskriver en prosessmodell for harmonisering eller differensiering av begreper.
 
-Standarden forutsetter at omfanget er avgrenset og begrepene er definert og beskrevet i henhold til https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/[_Forvaltningsstandard for begrepsbeskrivelser_]. Dersom ikke det er gjort, bør dere gå til forarbeid (<<vedlegg-c, vedlegg C>>, informativt).
+Standarden forutsetter at omfanget er avgrenset og begrepene er definert og beskrevet i henhold til https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/[_Forvaltningsstandard for begrepsbeskrivelser_]. Dersom ikke det er gjort, bør dere gå til forarbeid (<<vedlegg-c, vedlegg C>>, ikke-normativt).
 
-Dette kapitlet beskriver hva dere skal oppnå med de ulike stegene. Dere finner utdypende beskrivelser av hvordan dere gjennomfører hvert steg i <<vedlegg-a, vedlegg A>> (informativt).
+Dette kapitlet beskriver hva dere skal oppnå med de ulike stegene. Dere finner utdypende beskrivelser av hvordan dere gjennomfører hvert steg i <<vedlegg-a, vedlegg A>> (ikke-normativt).
 
 .Prosessmodell for begrepsharmonisering eller begrepsdifferensiering.
 image::prosessmodell.png[]

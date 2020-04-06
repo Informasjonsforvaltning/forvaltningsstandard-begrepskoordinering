@@ -1,4 +1,4 @@
-== Vedlegg C (informativt) - Forarbeid før denne standarden brukes [[vedlegg-c]]
+== Vedlegg C (ikke-normativt) - Forarbeid før denne standarden brukes [[vedlegg-c]]
 
 Denne standarden handler om harmonisering og differensiering av begreper. Standarden forutsetter at omfanget er avgrenset, og at begrepene som skal harmoniseres eller differensieres, er definerte.
 
