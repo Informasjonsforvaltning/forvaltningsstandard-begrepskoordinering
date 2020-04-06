@@ -1,6 +1,6 @@
 == Formål, omfang og avgrensinger
 
-Dette kapitlet er informativt.
+Dette kapitlet er ikke-normativt.
 
 === Bakgrunn
 Utveksling og gjenbruk av data og brukertjenester på tvers av virksomheter forutsetter en felles forståelse av begrepene. Utilsiktede eller unødvendige forskjeller mellom begrepsforståelse og begrepsbruk kan føre til at samme informasjon innhentes flere ganger eller at informasjonen i verste fall brukes feil. Opprydding i begrepsbruk internt i en virksomhet er også en viktig del av informasjonsforvaltningsarbeidet i virksomheten. Begreper bør derfor harmoniseres ved at utilsiktede eller unødvendige forskjeller fjernes eller reduseres, eller differensieres ved at forskjellene som ikke kan fjernes eller reduseres, blir gjort tydelige.
