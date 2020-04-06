@@ -1,4 +1,4 @@
-== Vedlegg A (informativt) - utdypende beskrivelse av stegene i prosessmodell  [[vedlegg-a]]
+== Vedlegg A (ikke-normativt) - utdypende beskrivelse av stegene i prosessmodell  [[vedlegg-a]]
 
 I dette vedlegget utdypes stegene i <<prosessmodell, prosessmodellen>> (figur 1) i den normative delen av standarden.
 

@@ -1,4 +1,4 @@
-== Vedlegg D (informativt) - Viktigste endringer fra versjon 1 til denne versjon av standarden [[vedlegg-d]]
+== Vedlegg D (ikke-normativt) - Viktigste endringer fra versjon 1 til denne versjon av standarden [[vedlegg-d]]
 
 Viktigste endringer fra versjon 1 til denne versjon av standarden:
 
