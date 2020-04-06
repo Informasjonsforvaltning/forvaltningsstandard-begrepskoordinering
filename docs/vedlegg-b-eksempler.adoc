@@ -59,7 +59,7 @@ Steg 1.2 Virksomhetene undersøker andre kilder (Store norske leksikon, ordbøke
 Steg 1.3 Begrepsdiagrammer: uaktuelt fordi det er snakk om ett begrep.
 
 Steg 1.4 Virksomhetene stiller opp termene og definisjonene med kilder ved siden av hverandre:
-[cols="1s,1d,4,4"]
+[cols="1s,3,3,3"]
 
 |===
 ||*kommune A*|*virksomhet B*|*Store norske leksikon*
