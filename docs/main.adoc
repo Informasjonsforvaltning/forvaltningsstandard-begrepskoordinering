@@ -1,6 +1,6 @@
 include::../shared/translation.adoc[]
 
-= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0
+= (UTKAST) Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0
 :description: Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering
 :doctype: book
 :docinfo:
