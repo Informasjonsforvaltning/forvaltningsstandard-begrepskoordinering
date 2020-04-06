@@ -8,4 +8,4 @@ Følgende referanser er normative og danner grunnlag for denne standarden:
 
 * ISO 860:2007 _Terminology work — Harmonization of concepts and terms_: internasjonal standard for begrepsharmonisering.
 
-* https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/[_Forvaltningsstandard for begrepsbeskrivelser]_: norsk forvaltningsstandard for beskrivelse av begreper.
+* https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/[_Forvaltningsstandard for begrepsbeskrivelser_]: norsk forvaltningsstandard for beskrivelse av begreper.
