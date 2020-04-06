@@ -12,15 +12,22 @@ For å bidra til utviklingen av denne standarden, må du clone den til din datam
 
 ### Clone til din datamaskin
 For at det følgende skal virke på din maskin, må du ha programvare installert:  
- - [git](https://git-scm.com/)
+ - [Git](https://git-scm.com/)
+ - en tekst-editor, feks [Atom editor](https://atom.io/)
 
-Dersom du bruker [Atom editor](https://atom.io/) kan du gjøre som følger:  
- - Trykk `Ctrl+Shift+P`
- - Skriv `GitHub: Clone` og trykk Enter
- - I Clone from legger du inn følgende url `https://github.com/Informasjonsforvaltning/forvaltningsstandard-begrepskoordinering.git`
 
+ Dersom du bruker Atom kan du gjøre som følger:  
+  - Trykk `Ctrl+Shift+P`
+  - Skriv `GitHub: Clone` og trykk Enter
+  - I Clone from legger du inn følgende url `https://github.com/Informasjonsforvaltning/forvaltningsstandard-begrepskoordinering.git`
+
+Alternativt i kommando-linje:
+```
+% git clone https://github.com/Informasjonsforvaltning/forvaltningsstandard-begrepskoordinering.git
+% cd forvaltningsstandard-begrepskoordinering
+% atom .                                # dersom du har installert Atom
+```
 ### Gjøre endringer
-
 Denne standarden er laget i [AsciiDoc](http://asciidoc.org/) med hjelp av verktøyet [Asciidoctor](https://asciidoctor.org/).
 
 Alle endringer må gjøre ved å endre eller legge til filer i docs-folderen. Se for eksempel på følgende veileder for god AsciiDoc praksis: https://asciidoctor.org/docs/asciidoc-recommended-practices
