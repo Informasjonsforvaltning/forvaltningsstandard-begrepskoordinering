@@ -22,6 +22,7 @@ WARNING: under publisering (små justeringer kan komme).
 //:sectnumlevels: 3
 
 //{description}
+include::locale/attributes.adoc[]
 
 include::shared/download.adoc[]
 
@@ -48,5 +49,3 @@ include::vedlegg-c-forarbeid.adoc[]
 include::vedlegg-d-endringslogg.adoc[]
 
 include::shared/stats.adoc[]
-
-include::shared/translation.adoc[]
