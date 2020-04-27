@@ -6,6 +6,9 @@ Klikk på Issues og deretter New issue for å melde inn endringsbehov og endring
 
 [\- _Digitaliseringsdirektoratet / Norwegian Digitalisation Agency_](https://digdir.no/)
 
+## Publisering
+ - Gjeldende versjon av standard vil ligge i master-branch og blir publisert til <https://data.norge.no/specification/forvaltningsstandard-begrepskoordinering>
+ - Neste versjon ("review") vil bli publisert som GitHub pages her: <https://informasjonsforvaltning.github.io/forvaltningsstandard-begrepskoordinering/>
 
 ## Bidra
 For å bidra til utviklingen av denne standarden, må du clone den til din datamaskin og opprette en pull request.
