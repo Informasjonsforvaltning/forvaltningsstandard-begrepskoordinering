@@ -1,0 +1,31 @@
+== Formål, omfang og avgrensinger
+
+Dette kapitlet er ikke-normativt.
+
+=== Bakgrunn
+Utveksling og gjenbruk av data og brukertjenester på tvers av virksomheter forutsetter en felles forståelse av begrepene. Utilsiktede eller unødvendige forskjeller mellom begrepsforståelse og begrepsbruk kan føre til at samme informasjon innhentes flere ganger eller at informasjonen i verste fall brukes feil. Opprydding i begrepsbruk internt i en virksomhet er også en viktig del av informasjonsforvaltningsarbeidet i virksomheten. Begreper bør derfor harmoniseres ved at utilsiktede eller unødvendige forskjeller fjernes eller reduseres, eller differensieres ved at forskjellene som ikke kan fjernes eller reduseres, blir gjort tydelige.
+
+Eksempler på behov for å harmonisere eller differensiere begreper:
+
+* En offentlig virksomhet skal utvikle en ny digital løsning. Virksomheten ønsker å gjenbruke data som de fra Felles datakatalog ser at en annen offentlig virksomhet allerede har innhentet. Imidlertid oppdager de i Felles begrepskatalog at begrepene som benyttes i datagrunnlaget, er ulike i de to virksomhetene. Man står derfor i fare for å feiltolke dataene, og den nye løsningen vil føre til hodebry, ikke effektivitet. Virksomhetene trenger et felles begrepsapparat.
+* To avdelinger i en virksomhet bruker samme fagterm om ulike begreper på nettsidene og i interne rutinedokumenter. Det skaper misforståelser både blant ansatte og publikum. Virksomheten trenger å tydeliggjøre forskjellene mellom begrepene ved f.eks. å bruke ulike termer for å unngå slike misforståelser.
+
+Det som virksomhetene i ovennevnte eksempler også trenger, er felles verktøy og metoder for begrepsharmonisering og begrepsdifferensiering.
+
+
+=== Formål
+
+Standarden skal bidra til en felles ramme for begrepsarbeid og bruk av termer i offentlig forvaltning. Standarden skal også bidra til konsistent språkbruk i virksomhetenes kommunikasjon med publikum.
+
+Standarden beskriver en prosess for å avklare likheter og ulikheter i innholdet i sentrale begreper og termer, med formål å harmonisere eller differensiere dem.
+
+
+=== Målgruppe
+
+Standarden er først og fremst tiltenkt offentlig forvaltning, men den vil være nyttig for alle organisasjoner og virksomheter som arbeider med begreper og termer i forbindelse med informasjonsforvaltning, datadeling, klarspråk og kommunikasjon med publikum.
+
+Standarden forutsetter grunnleggende kunnskap i begrepsarbeid og terminologi. Mer informasjon finner du i https://www.difi.no/referansekatalogen/begrepsanalyse-og-definisjonsarbeid[_Referansekatalogen_] og på https://www.sprakradet.no/Sprakarbeid/Terminologi/[Språkrådets nettsider]. Språkrådet er nasjonalt samordningsorgan for terminologiutvikling og bistår med kompetanse i begrepsarbeid og terminologi.
+
+=== Avgrensninger
+
+Utgangspunktet for denne standarden er at begrepene som skal harmoniseres eller differensieres, er definerte. Som hjelp har vi i standardens informative del (<<vedlegg-c, vedlegg C>>) beskrevet forarbeid som bør gjennomføres før denne standarden skal tas i bruk.
