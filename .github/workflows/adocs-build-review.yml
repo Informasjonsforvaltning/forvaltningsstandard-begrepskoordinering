@@ -22,12 +22,6 @@ jobs:
       with:
           program: "asciidoctor-pdf -D docs -o document.pdf -a lang=nb docs/main.adoc"
       continue-on-error: true
-    - name: Build epub3
-      id: adocbuild_epub3
-      uses: avattathil/asciidoctor-action@master
-      with:
-          program: "asciidoctor-epub3 -D docs -o document.epub -a lang=nb docs/main.adoc"
-      continue-on-error: true
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:

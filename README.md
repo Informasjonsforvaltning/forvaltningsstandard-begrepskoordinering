@@ -53,7 +53,7 @@ Gå til https://github.com/Informasjonsforvaltning/forvaltningsstandard-begrepsk
 Dersom du bruker [Atom editor](https://atom.io/) kan du installere pakken [AsciiDoc Assistant Package](https://atom.io/packages/asciidoc-assistant).
 Du vil da få syntax-uthevelse og forhåndsvisning.
 
-#### Generer html, pdf og epub lokalt
+#### Generer html og pdf lokalt
 
 For at det følgende skal virke på din maskin, må du ha programvare installert:  
  - [docker](https://www.docker.com/products/docker-desktop)
@@ -62,7 +62,6 @@ For at det følgende skal virke på din maskin, må du ha programvare installert
 % docker run -it -v $(pwd):/documents asciidoctor/docker-asciidoctor
 bash-5.0# asciidoctor -D docs -o index.html docs/main.adoc
 bash-5.0# asciidoctor-pdf -D docs -o document.pdf docs/main.adoc
-bash-5.0# asciidoctor-epub3 -D docs -o document.epub docs/main.adoc
 ```
 Åpne filen index.html i din nettleser.
 
