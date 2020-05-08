@@ -7,7 +7,7 @@ Utveksling og gjenbruk av data og brukertjenester på tvers av virksomheter foru
 
 Eksempler på behov for å harmonisere eller differensiere begreper:
 
-* En offentlig virksomhet skal utvikle en ny digital løsning. Virksomheten ønsker å gjenbruke data som de fra Felles datakatalog ser at en annen offentlig virksomhet allerede har innhentet. Imidlertid oppdager de i Felles begrepskatalog at begrepene som benyttes i datagrunnlaget, er ulike i de to virksomhetene. Man står derfor i fare for å feiltolke dataene, og den nye løsningen vil føre til hodebry, ikke effektivitet. Virksomhetene trenger et felles begrepsapparat.
+* En offentlig virksomhet skal utvikle en ny digital løsning. Virksomheten ønsker å gjenbruke data som de fra Felles datakatalog ser at en annen offentlig virksomhet allerede har innhentet. Imidlertid oppdager de i begrepskatalogen (del av Felles begrepskatalog) at begrepene som benyttes i datagrunnlaget, er ulike i de to virksomhetene. Man står derfor i fare for å feiltolke dataene, og den nye løsningen vil føre til hodebry, ikke effektivitet. Virksomhetene trenger et felles begrepsapparat.
 * To avdelinger i en virksomhet bruker samme fagterm om ulike begreper på nettsidene og i interne rutinedokumenter. Det skaper misforståelser både blant ansatte og publikum. Virksomheten trenger å tydeliggjøre forskjellene mellom begrepene ved f.eks. å bruke ulike termer for å unngå slike misforståelser.
 
 Det som virksomhetene i ovennevnte eksempler også trenger, er felles verktøy og metoder for begrepsharmonisering og begrepsdifferensiering.
