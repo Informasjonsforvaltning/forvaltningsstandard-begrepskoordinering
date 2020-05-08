@@ -16,7 +16,7 @@ Målet er å finne likheter og forskjeller mellom begrepene ved å sammenstille 
 
 === Steg 2: Valg mellom begrepsharmonisering eller begrepsdifferensiering [[steg2]]
 
-Målet er å velge et realistisk mål for et koordineringsarbeid, som  er:
+Målet er å velge et realistisk mål for et koordineringsarbeid, som er:
 
 ["upperalpha"]
 . å harmonisere begrepene (begrepsharmonisering)
