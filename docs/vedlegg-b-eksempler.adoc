@@ -172,7 +172,7 @@ Steg 1.4 Virksomhetene stiller opp termene, definisjonene med kilder ved siden a
 
 |===
 |*virksomhet A*|*virksomhet B*|*NS-EN 12056-5:2000*
-|_kloakk_ (synonym: _avløpsvann): vann som slippes ut fra husholdninger|_avløpsvann_: brukt vann og alt vann som slippes ut i avløpssystemet, f.eks. husholdnings- og industriavløpsvann, kondensvann samt overvann som slippes ut i avløpssystemet|_avløpsvann_: brukt vann og alt vann som slippes ut i avløpssystemet, f.eks. husholdnings- og industriavløpsvann, kondensvann samt overvann som slippes ut i avløpssystemet
+|_kloakk_ (synonym: _avløpsvann_): vann som slippes ut fra husholdninger|_avløpsvann_: brukt vann og alt vann som slippes ut i avløpssystemet, f.eks. husholdnings- og industriavløpsvann, kondensvann samt overvann som slippes ut i avløpssystemet|_avløpsvann_: brukt vann og alt vann som slippes ut i avløpssystemet, f.eks. husholdnings- og industriavløpsvann, kondensvann samt overvann som slippes ut i avløpssystemet
 |_gråvann_: avløpsvann fra husholdningers bad og dusjer, håndvasker og kjøkkenkummer| |_gråvann_: spillvann som ikke inneholder fekale stoffer eller urin
 |_svartvann_: avløpsvann fra husholdningers toaletter| |_svartvann_: avløpsvann som inneholder fekale stoffer eller urin
 | |_spillvann_: brukt vann som slippes ut etter bruk i husholdninger, industri og næringsbygg |_spillvann_: brukt vann som hovedsakelig slippes ut fra vannklosett, dusj, badekar, bidé, håndvask, utslagsvask og gulvsluk
@@ -405,7 +405,7 @@ I NAOB finner de følgende definisjon:
 
 Definisjonen fra NAOB blir vurdert som en sirkeldefinisjon som har lav informasjonsverdi. Den blir derfor ikke benyttet i det videre arbeidet.
 
-I Universitets- og høgskolerådets (UHR) termbase finner de synonymet _fulltidsstudent_, men uten definisjon. I tillegg finner de både _fulltidsstudent _og _heltidsstudent _i bruk på en del relevante nettsider, bl.a. Statens lånekasse for utdanning. Synonymet blir derfor tatt med i det videre arbeidet.
+I Universitets- og høgskolerådets (UHR) termbase finner de synonymet _fulltidsstudent_, men uten definisjon. I tillegg finner de både _fulltidsstudent_ og _heltidsstudent_ i bruk på en del relevante nettsider, bl.a. Statens lånekasse for utdanning. Synonymet blir derfor tatt med i det videre arbeidet.
 
 Steg 1.3 Begrepsdiagrammer: uaktuelt, fordi det er snakk om ett begrep.
 
