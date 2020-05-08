@@ -2,7 +2,7 @@
 
 I dette vedlegget utdypes stegene i <<prosessmodell, prosessmodellen>> (figur 1) i den normative delen av standarden.
 
-=== Steg 1: Sammenstilling av begreper
+=== Steg 1: Sammenstilling av begreper [[Steg1]]
 
 ==== Hvorfor
 For å identifisere likhetene og ulikhetene mellom begrepene som skal harmoniseres eller differensieres, slik at det blir lettere å ta et realistisk valg i neste steg.
@@ -39,7 +39,7 @@ Punkt 4::
  Se også her https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/termlosen[_Termlosen_].
 
 
-=== Steg 2: Valg mellom begrepsharmonisering og begrepsdifferensiering
+=== Steg 2: Valg mellom begrepsharmonisering og begrepsdifferensiering [[Steg2]]
 
 ==== Hvorfor
 For å foreta et realistisk valg ved å utrede mulighetene for begrepsharmonisering eller begrepsdifferensiering.
@@ -105,7 +105,7 @@ Stoppes arbeidet (alternativ C) fordi begrepene har opphav i lover eller forskri
 Har begrepene opphav i standarder, bør deltakerne ta kontakt med ansvarlig organ for standarden eller standardene (f.eks. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/arkitektur-og-standardiseringsradet[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av å endre standarden eller utvikle ny standard.
 
 
-=== Steg 3: Begrepsharmonisering
+=== Steg 3: Begrepsharmonisering [[Steg3]]
 
 ==== Hvorfor
 For å sørge for at deltakerne bruker identiske begreper.
@@ -134,7 +134,7 @@ Punkt 3 og 4:: Det finnes en metode for terminologisk arbeid, se https://www.dif
 Om deltakerne blir enige om nye, felles begreper som avviker fra standarder, bør begrepsansvarlig (se <<Steg5, steg 5>>) tar kontakt med ansvarlig organ (f.eks. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/arkitektur-og-standardiseringsradet[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av endre standarden. Da kan det være mulig å ta hensyn til de nye, felles begrepene ved neste revisjon av den aktuelle standarden.
 
 
-=== Steg 4: Begrepsdifferensiering
+=== Steg 4: Begrepsdifferensiering [[Steg4]]
 
 ==== Hvorfor
 For å tydeliggjøre forskjeller mellom begrepene slik at de ikke brukes eller forståes som om de var identiske.
@@ -162,7 +162,7 @@ Punkt 1::
  Dersom definisjonene bruker ulike typer kjennetegn, er det en god idé å tydeliggjøre forskjellene ikke bare ved hjelp av endret ordlyd, men også ved å bruke merknadsfeltet.
 
 
-=== Steg 5: Enighet om forvaltningsmodell
+=== Steg 5: Enighet om forvaltningsmodell [[Steg5]]
 
 ==== Hvorfor
 For å sikre at de nye begrepene blir forvaltet på en trygg og hensiktsmessig måte.
