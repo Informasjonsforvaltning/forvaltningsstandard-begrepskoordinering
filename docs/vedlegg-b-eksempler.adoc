@@ -47,7 +47,7 @@ Virksomhet B:
 |kilde|Lov om kulturminner
 |===
 
-Steg 1.2 Virksomhetene undersøker andre kilder (Store norske leksikon, ordbøker, Felles begrepskatalog, Termportalen og termbasen Snorre) og finner en definisjon fra Store norske leksikon:
+Steg 1.2 Virksomhetene undersøker andre kilder (https://snl.no/[Store norske leksikon], https://ordbok.uib.no/[ordbøker], https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen], https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen] og https://www.standard.no/termbasen/[termbasen SNORRE]) og finner en definisjon fra Store norske leksikon:
 
 [cols="10s,90d"]
 |===
@@ -69,12 +69,14 @@ Steg 1.4 Virksomhetene stiller opp termene og definisjonene med kilder ved siden
 
 Steg 1.5 Virksomhetene identifiserer likheter og ulikheter:
 
-Begrepsdefinisjon:  +
+Begrepsdefinisjon:
+
 Alle definisjonene tar utgangspunkt i det felles overbegrepet ‘spor’. I tillegg blir det i kommune As og virksomhet Bs definisjon eksplisitt uttrykt at begrepet omfatter spor av _mennesker_, mens det i Store norske leksikon ikke er like tydelig. Imidlertid kan ordet _virke_ i Store norske leksikons artikkel antyde den samme avgrensingen.
 
 Det som skiller definisjonen fra hverandre, er tidsangivelsen. Kommune As og Store norske leksikons definisjon peker på ‘eldre spor’, mens virksomhet B ikke gjør en slik avgrensing i sin definisjon.
 
-Termer:  +
+Termer:
+
 Termene er identiske, men Store norske leksikon fører i tillegg opp synonymet _fornminne_.
 
 *Steg 2: Valg mellom begrepsharmonisering eller begrepsdifferensiering*
@@ -98,7 +100,8 @@ Steg 2.2 Administrative vurderinger
 
 Basert på administrative og økonomiske vurderinger er det gode muligheter for harmonisering av begrepene.
 
-Steg 2.3 Konklusjon +
+Steg 2.3 Konklusjon
+
 Begrepene kan harmoniseres.
 
 *Steg 3: Begrepsharmonisering*
@@ -131,7 +134,7 @@ Virksomhet A
 [cols="20,60,20"]
 |===
 |*term* | *definisjon* | *kilde*
-|_avløpsvann_|vann som slippes ut fra husholdninger|egendefinert
+|_kloakk_ (synonym: _avløpsvann_) |vann som slippes ut fra husholdninger|egendefinert
 |_gråvann_|avløpsvann fra husholdningers bad og dusjer, håndvasker og kjøkkenkummer|egendefinert
 |_svartvann_|avløpsvann fra husholdningers toaletter|egendefinert
 |===
@@ -140,19 +143,19 @@ Virksomhet B
 [cols="20,60,20"]
 |===
 |*term* | *definisjon* | *kilde*
-|_kloakk_|vann som slippes ut fra husholdninger eller i en industriprosess samt vann som ledes bort fra tak på bygninger, fra overflate av anlegg eller terreng|NS-EN 1085:1997: Rensing av avløpsvann - Ordliste
+|_avløpsvann_|brukt vann og alt vann som slippes ut i avløpssystemet, f.eks. husholdnings- og industriavløpsvann, kondensvann samt overvann som slippes ut i avløpssystemet|NS-EN 12056-5:2000 Avløpssystemer med selvfall i bygninger
 |_spillvann_|brukt vann som slippes ut etter bruk i husholdninger, industri og næringsbygg|egendefinert
 |_overvann_|vann fra naturlig nedbør som ikke har blitt forurenset ved bruk|egendefinert
 |===
 
-Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer og definisjoner: Lovdata, termbasen Snorre, Store norske leksikon, Felles begrepskatalog og Termportalen.
+Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer og definisjoner: https://lovdata.no/[Lovdata], https://www.standard.no/termbasen/[termbasen SNORRE], https://snl.no/[Store norske leksikon], https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen] og https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen].
 
-I termbasen Snorre finner virksomhetene følgende definisjoner som virksomhetene ønsker å ta med seg videre i arbeidet:
+I termbasen SNORRE finner virksomhetene følgende definisjoner som virksomhetene ønsker å ta med seg videre i arbeidet:
 
 [cols="20,60,20"]
 |===
 |*term* | *definisjon* | *kilde*
-|_avløpsvann_|vann som slippes ut fra husholdninger eller i en industriprosess samt vann som ledes bort fra tak på bygninger, fra overflate av anlegg eller terreng|NS-EN 1085:1997: Rensing av avløpsvann - Ordliste
+|_kloakk_ (synonym: _avløpsvann_) |brukt vann og alt vann som slippes ut i avløpssystemet, f.eks. husholdnings- og industriavløpsvann, kondensvann samt overvann som slippes ut i avløpssystemet|NS-EN 12056-5:2000 Avløpssystemer med selvfall i bygninger
 |_spillvann_|brukt vann som hovedsakelig slippes ut fra vannklosett, dusj, badekar, bidé, håndvask, utslagsvask og gulvsluk|NS-EN 12056-5:2000: Avløpssystemer med selvfall i bygninger
 |_overvann_|vann fra naturlig nedbør som ikke har blitt forurenset ved bruk|NS-EN 12056-5:2000: Avløpssystemer med selvfall i bygninger
 |_gråvann_|spillvann som ikke inneholder fekale stoffer eller urin|NS-EN 12056-2:2000: Avløpssystemer med selvfall i bygninger
@@ -168,29 +171,33 @@ Virksomhetene tegner ikke opp begrepsdiagram basert på de to tekniske standarde
 Steg 1.4 Virksomhetene stiller opp termene, definisjonene med kilder ved siden av hverandre:
 
 |===
-|*virksomhet A*|*virksomhet B*|*Standardene NS-EN 1085:1997 og NS-EN 12056-5:2000*
-|_avløpsvann_: vann som slippes ut fra husholdninger|_kloakk_ (synonym: _avløpsvann_): vann som slippes ut fra husholdninger eller i en industriprosess samt vann som ledes bort fra tak på bygninger, fra overflate av anlegg eller terreng|_avløpsvann_: vann som slippes ut fra husholdninger eller i en industriprosess samt vann som ledes bort fra tak på bygninger, fra overflate av anlegg eller terreng
+|*virksomhet A*|*virksomhet B*|*NS-EN 12056-5:2000*
+|_kloakk_ (synonym: _avløpsvann): vann som slippes ut fra husholdninger|_avløpsvann_: brukt vann og alt vann som slippes ut i avløpssystemet, f.eks. husholdnings- og industriavløpsvann, kondensvann samt overvann som slippes ut i avløpssystemet|_avløpsvann_: brukt vann og alt vann som slippes ut i avløpssystemet, f.eks. husholdnings- og industriavløpsvann, kondensvann samt overvann som slippes ut i avløpssystemet
 |_gråvann_: avløpsvann fra husholdningers bad og dusjer, håndvasker og kjøkkenkummer| |_gråvann_: spillvann som ikke inneholder fekale stoffer eller urin
 |_svartvann_: avløpsvann fra husholdningers toaletter| |_svartvann_: avløpsvann som inneholder fekale stoffer eller urin
 | |_spillvann_: brukt vann som slippes ut etter bruk i husholdninger, industri og næringsbygg |_spillvann_: brukt vann som hovedsakelig slippes ut fra vannklosett, dusj, badekar, bidé, håndvask, utslagsvask og gulvsluk
 | |_overvann_: vann som ledes bort fra tak på bygninger, fra overflaten av anlegg eller terreng |_overvann_: vann fra naturlig nedbør som ikke har blitt forurenset ved bruk
 |===
 
-Steg 1.5 Virksomhetene identifiserer likheter og ulikheter:  +
+Steg 1.5 Virksomhetene identifiserer likheter og ulikheter:
+
 Begrepsrelasjoner:
+
 Begge diagrammene har et overbegrep med to underbegreper inndelt etter samme inndelingskriterium. Underbegrepene er ulike i de to begrepssystemene.
 
 I standardene antydes det at ‘gråvann’ er et underbegrep av ‘spillvann’ mens ‘svartvann’ er et underbegrep til ‘avløpsvann, samtidig som de er sidebegreper.
 
-Begrepsdefinisjoner: +
-Overbegrepet i de to diagrammene er nokså overlappende. Definisjonen til virksomhet As overbegrep er noe snevrere (vann fra husholdninger) enn virksomhet Bs (vann fra husholdninger, industriprosess og overflatevann). Virksomhet Bs definisjon er mer i samsvar med standardene på fagområdet.
+Begrepsdefinisjoner:
+
+Overbegrepet i de to diagrammene er nokså overlappende. Definisjonen til virksomhet As overbegrep er noe snevrere (vann fra husholdninger) enn virksomhet Bs (brukt vann og alt vann som slippes ut i avløpssystemet, både fra husholdninger og industri). Virksomhet Bs definisjon er mer i samsvar med standardene på fagområdet.
 
 Definisjonene til underbegrepene antyder at begrepsparet ‘gråvann’ og ‘svartvann’ ikke overlapper begrepsparet ‘spillvann’ og ‘overvann’, men er svært relaterte siden de bygger på samme inndelingskriterium (opphav).
 
-Definisjonene fra standardene antyder at de vesentlige kjennetegnene til ‘gråvann’ og ‘svartvann’ er [.underline]#vannets innhold#, og at de dermed er underordnet ‘spillvann’, som bygger på det vesentlige kjennetegnet [.underline]#opphav#.
+Definisjonene fra NS-EN 12056-5:2000 antyder at de vesentlige kjennetegnene til ‘gråvann’ og ‘svartvann’ er [.underline]#vannets innhold#, og at de dermed er underordnet ‘spillvann’, som bygger på det vesentlige kjennetegnet [.underline]#opphav#.
 
 Termer:
-Virksomhet A bruker termen _avløpsvann_ for overbegrepet, mens virksomhet B bruker termen _kloakk. _Imidlertid benytter virksomhet B seg også av synonymet _avløpsvann_.
+
+Virksomhet A foretrekker termen _kloakk_ for overbegrepet, mens virksomhet B foretrekker termen _avløpsvann_. Dessuten benytter virksomhet A seg også av synonymet _avløpsvann_ i noen tilfeller.
 
 *Steg 2: Valg mellom begrepsharmonisering eller begrepsdifferensiering*
 
@@ -210,17 +217,19 @@ Steg 2.2 Administrative vurderinger
 * Eventuelle endringer vil få konsekvenser for eksisterende datasystemer, men nytten er langt høyere enn kostnaden. Virksomhetene ser kostnadene som overkommelige.
 * Begge virksomhetene har tilgang til faglig og terminologisk kompetanse.
 
-Steg 2.3 Konklusjon  +
+Steg 2.3 Konklusjon
+
 Virksomhetene velger å sette i gang et arbeid med å harmonisere begrepene.
 
-*Steg 3: Begrepsharmonisering* +
-Virksomhetene ønsker å etablere et nytt, felles begrepssystem som inneholder begrepene fra virksomhetene og fra NS-EN 1085:1997.
+*Steg 3: Begrepsharmonisering*
+
+Virksomhetene ønsker å etablere et nytt, felles begrepssystem som inneholder begrepene fra virksomhetene og fra NS-EN 12056-5:2000.
 
 Virksomhetene tegner et nytt felles begrepsdiagram på følgende måte:
 
-Først etableres et felles overbegrep (‘avløpsvann’) ved at virksomhet A aksepterer at begrepsinnholdet få et større omfang ved å omfatte ‘avløpsvann fra industri samt vann som ledes bort fra tak på bygninger, fra overflate av anlegg eller terreng’, slik virksomhet B og standarden definerer begrepet.
+Først etableres et felles overbegrep (‘avløpsvann’) ved at virksomhet A aksepterer at begrepsinnholdet får et større omfang ved å omfatte ‘brukt vann og alt vann som slippes ut i avløpssystemet, f.eks. husholdnings- og industriavløpsvann, kondensvann samt overvann som slippes ut i avløpssystemet’, slik virksomhet B og standarden definerer begrepet.
 
-Virksomhet B aksepterer at termen _kloakk_ blir erstattet med termen _avløpsvann_.
+Virksomhet A aksepterer at termen _kloakk_ blir erstattet med _avløpsvann_ som anbefalt term.
 
 Begrepene ‘spillvann’ og ‘overvann’ blir fastsatt som underbegreper til ‘avløpsvann’ ved å ta utganspunkt i inndelingskriteriet [.underline]#vannets opphav#.
 
@@ -235,7 +244,7 @@ Med utgangspunkt i det nye, felles begrepssystemet blir virksomhet A og virksomh
 [cols="1,3,3"]
 |===
 |*anbefalt term* | *definisjon* | *merknad*
-|_avløpsvann_|vann som slippes ut fra husholdninger eller i en industriprosess samt vann som ledes bort fra tak på bygninger, fra overflate av anlegg eller terreng|Definisjonen er i samsvar med standarden.
+|_avløpsvann_|brukt vann og alt vann som slippes ut i avløpssystemet, f.eks. husholdnings- og industriavløpsvann, kondensvann samt overvann som slippes ut i avløpssystemet |Definisjonen er i samsvar med standarden.
 |_spillvann_|avløpsvann som slippes ut fra husholdninger, industri og næringsbygg|Definisjonen skiller seg fra standarden ved at den inneholder en tydeligere relasjon til overbegrepet, og at kjennetegnet er mer allment.
 |_overvann_|avløpsvann fra naturlig nedbør som ikke har blitt forurenset ved bruk|Definisjonen skiller seg fra standarden ved at den inneholder en tydeligere relasjon til overbegrepet.
 |_svartvann_|avløpsvann som inneholder fekale stoffer eller urin|Definisjonen er i samsvar med standarden.
@@ -247,7 +256,7 @@ Virksomhetene melder fra til ansvarlige komiteer for standardene om de nye defin
 
 *Steg 5: Enighet om forvaltningsmodell*
 
-Virksomhetene blir enige om at Virksomhet B får ansvaret for å forvalte det nye, felles begrepssystemet. Virksomhet B registrerer begrepene i Felles begrepskatalog og forplikter seg til å ta kontakt med virksomhet A ved eventuelle, framtidige begrepsendringer.
+Virksomhetene blir enige om at Virksomhet B får ansvaret for å forvalte det nye, felles begrepssystemet. Virksomhet B registrerer begrepene i https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen] og forplikter seg til å ta kontakt med virksomhet A ved eventuelle, framtidige begrepsendringer.
 
 *Slutt*: Begrepene er harmoniserte.
 
@@ -281,7 +290,7 @@ Virksomhet B:
 |kilde|egendefinert
 |===
 
-Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: Lovdata, Store norske leksikon, Felles begrepskatalog, UHRs termbase, nettsider i UH-sektoren, Termportalen, ordbøker (_Bokmålsordboka_, _Nynorskordboka_, _NAOB_).
+Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: https://lovdata.no/[Lovdata], https://snl.no/[Store norske leksikon], https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen], https://oda.uib.no/app?ma=term&mg=uhr[UHRs termbase], nettsider i UH-sektoren, https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen], ordbøker (https://ordbok.uib.no/[Bokmålsordboka, Nynorskordboka], https://naob.no/[NAOB]).
 
 Virksomhetene finner ingen andre definisjoner av ‘gjennomføringsgrad’.
 
@@ -304,7 +313,8 @@ Begrepsdefinisjoner:
 
 Virksomhetene benytter kjennetegn som viser til to forskjellige kategorier: 1) forholdstall mellom de som begynner og de som fullfører innen normert tid, *av alle startkull* og 2) forholdstall mellom de som begynner og de som fullfører innen normert tid, *av et gitt startkull*.
 
-Termer: +
+Termer:
+
 Termene er identiske.
 
 *Steg 2: Valg mellom begrepsharmonisering eller begrepsdifferensiering*
@@ -324,14 +334,15 @@ Steg 2.2 Administrative vurderinger
 * Virksomhetene har utredet og kommet fram til at de kan justere på termene og ordlyden i definisjonen innenfor de økonomiske og administrative rammene.
 * Virksomhetene har utøvende myndighet på området og kan derfor gjøre slike justeringer.
 
-Steg 2.3 Konklusjon +
+Steg 2.3 Konklusjon
+
 Begrepene kan ikke harmoniseres. Begrepene differensieres ved at forskjellene i begrepsdefinisjoner tydeliggjøres og at termene gjenspeiler forskjellene.
 
 *Steg 3*: Begrepsharmonisering: uaktuelt.
 
 *Steg 4: Begrepsdifferensiering*
 
-Begrepene fra de to virksomhetene blir ført opp i samme termbase: Felles begrepskatalog.
+Begrepene fra de to virksomhetene blir ført opp i samme termbase: https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen].
 
 Steg 4.1 Endring i definisjon: Begge virksomhetene justerer ordlyden uten at de innebærer endringer i begrepsinnholdet, se under.
 
@@ -348,7 +359,7 @@ Steg 4.3 Virksomhetene vurderer at det ikke er nødvendig å legge til informasj
 
 Steg 4.4 Virksomhetene vurderer at det ikke er nødvendig å bruke ‘fagområde’ eller ‘bruksområde’ for å skille mellom begrepene i termbasen de benytter.
 
-Steg 4.5 Det blir lagt inn en _se også_-relasjon mellom begrepene i Felles begrepskatalog.
+Steg 4.5 Det blir lagt inn en _se også_-relasjon mellom begrepene i https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen].
 
 *Steg 5: Enighet om forvaltningsmodell*
 
@@ -382,7 +393,7 @@ Virksomhet B:
 |kilde|forskrift
 |===
 
-Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: Lovdata, Store norske leksikon, Felles begrepskatalog, UHRs termbase, nettsider i UH-sektoren, Termportalen, ordbøker (Bokmålsordboka, Nynorskordboka, NAOB).
+Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: https://lovdata.no/[Lovdata], https://snl.no/[Store norske leksikon], https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen], https://oda.uib.no/app?ma=term&mg=uhr[UHRs termbase], nettsider i UH-sektoren, https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen], ordbøker (https://ordbok.uib.no/[Bokmålsordboka, Nynorskordboka], https://naob.no/[NAOB]).
 
 I NAOB finner de følgende definisjon:
 [cols="10s,90"]
@@ -394,7 +405,7 @@ I NAOB finner de følgende definisjon:
 
 Definisjonen fra NAOB blir vurdert som en sirkeldefinisjon som har lav informasjonsverdi. Den blir derfor ikke benyttet i det videre arbeidet.
 
-I Universitets- og høgskolerådets (UHR) termbase finner de synonymet _fulltidsstudent_, men uten definisjon. I tillegg finner de både _fulltidsstudent _og _heltidsstudent _i bruk på en del relevante nettsider, bl.a. Lånekassa. Synonymet blir derfor tatt med i det videre arbeidet.
+I Universitets- og høgskolerådets (UHR) termbase finner de synonymet _fulltidsstudent_, men uten definisjon. I tillegg finner de både _fulltidsstudent _og _heltidsstudent _i bruk på en del relevante nettsider, bl.a. Statens lånekasse for utdanning. Synonymet blir derfor tatt med i det videre arbeidet.
 
 Steg 1.3 Begrepsdiagrammer: uaktuelt, fordi det er snakk om ett begrep.
 
@@ -426,16 +437,19 @@ Steg 1.4 Virksomhetene stiller opp termene, definisjonene med kilder ved siden a
 
 Steg 1.5 Virksomhetene identifiserer likheter og ulikheter:
 
-Begrepsrelasjoner: +
+Begrepsrelasjoner:
+
 Begge begrepsdiagrammene er inndelt etter overbegrepet ‘student’ med to underbegreper hver: ‘heltidsstudent’ og ‘deltidsstudent’. Inndelingskriteriet er det samme: ‘studieprogresjon’.
 
-Begrepsdefinisjoner: +
+Begrepsdefinisjoner:
+
 Begge virksomhetene benytter seg av samme type kjennetegn (studieprogresjon). Imidlertid tillegger virksomhetene ulik verdi til studieprogresjon:
 
 * Virksomhet A: heltidsstudent: over 75 %, deltidsstudent: under 75 %
 * Virksomhet B: heltidsstudent: 100 %, deltidsstudent: under 100 %
 
-Termer: +
+Termer:
+
 Begge virksomhetene bruker termene _heltidsstudent_ og _deltidsstudent_ mens UHRs termbase bruker _fulltidsstudent_ og _deltidsstudent_.
 
 *Steg 2: Valg mellom begrepsharmonisering eller begrepsdifferensiering*
@@ -461,18 +475,21 @@ Steg 2.2. Administrative vurderinger
 
 Basert på administrative vurderinger kan mulighetene for harmonisering være dårlige.
 
-Steg 2.3 Konklusjon  +
+Steg 2.3 Konklusjon
+
 Begrepene kan ikke harmoniseres og bør derfor differensieres.
 
 *Steg 3*: Begrepsharmonisering: uaktuelt.
 
 *Steg 4: Begrepsdifferensiering*
 
-Begrepene blir registrert i samme termbase, i dette tilfellet Felles begrepskatalog.
+Begrepene blir registrert i samme termbase, i dette tilfellet https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen].
 
-Steg 4.1 Endring i definisjon: Virksomhetene vurderer at det ikke er mulig. +
-Steg 4.2 Endring i term: Virksomhetene vurderer at det ikke er mulig. +
-Steg 4.3 Endring i merknad i definisjon: Virksomhetene ønsker å tydeliggjøre avviket mellom begrepene i merknadsfeltet i Felles begrepskatalog på følgende måte
+Steg 4.1 Endring i definisjon: Virksomhetene vurderer at det ikke er mulig.
+
+Steg 4.2 Endring i term: Virksomhetene vurderer at det ikke er mulig.
+
+Steg 4.3 Endring i merknad i definisjon: Virksomhetene ønsker å tydeliggjøre avviket mellom begrepene i merknadsfeltet i https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen] på følgende måte:
 
 * Merknadsfeltet til ‘heltidsstudent’ (virksomhet A): “Begrepet blir definert ulikt i virksomhet B”.
 * Merknadsfeltet til ‘deltidsstudent’ (virksomhet A): “Begrepet blir definert ulikt i virksomhet B”.
@@ -481,7 +498,7 @@ Steg 4.3 Endring i merknad i definisjon: Virksomhetene ønsker å tydeliggjøre 
 
 Steg 4.4 Virksomhetene vurderer at det ikke er nødvendig å bruke ‘fagområde’ eller ‘bruksområde’ for å skille mellom begrepene.
 
-Steg 4.5 Det blir lagt inn en _se også_-begrepsrelasjon mellom begrepene i Felles begrepskatalog.
+Steg 4.5 Det blir lagt inn en _se også_-begrepsrelasjon mellom begrepene i https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen].
 
 Virksomhetene tar kontakt med UHRs termbase for å orientere om beslutningen slik at termbasen kan inneholde de samme opplysningene.
 
