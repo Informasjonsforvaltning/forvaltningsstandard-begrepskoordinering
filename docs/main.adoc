@@ -1,4 +1,4 @@
-= (UTKAST) Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0
+= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0
 :description: Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering
 :doctype: book
 :docinfo:
@@ -13,9 +13,9 @@
 
 image::digitaliseringsdirektoratet.png[width=50%, pdfwidth=30vw]
 
-Publisert: <under publisering>
+Publisert: 2020-05-08
 
-WARNING: under publisering (små justeringer kan komme).
+// WARNING: under publisering (små justeringer kan komme).
 
 //:sectnums:
 
