@@ -128,4 +128,6 @@ https://www.sprakradet.no/Sprakarbeid/Terminologi/[Språkrådets nettsider] gir 
 
 https://www.difi.no/referansekatalogen/begrepsanalyse-og-definisjonsarbeid[_Referansekatalogen_] inneholder relevante standarder for begrepsanalyse og definisjonsarbeid, inkl. _Termlosen_.
 
+https://www.standard.no/termbasen/[Termbasen SNORRE] inneholder en rekke definisjoner av sentrale begreper i terminologi og terminologiarbeid.
+
 Begrepene kan dokumenteres ved hjelp av f.eks. et tekstdokument, regneark, informasjonsmodell eller en begrepsmodell.
