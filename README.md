@@ -7,16 +7,16 @@ Klikk på Issues og deretter New issue for å melde inn endringsbehov og endring
 [\- _Digitaliseringsdirektoratet / Norwegian Digitalisation Agency_](https://digdir.no/)
 
 ## Publisering
- - Gjeldende versjon av standard vil ligge i master-branch og blir publisert til <https://data.norge.no/specification/forvaltningsstandard-begrepskoordinering>
- - Neste versjon ("review") vil bli publisert som GitHub pages her: <https://informasjonsforvaltning.github.io/forvaltningsstandard-begrepskoordinering/>
+ - Gjeldende versjon av standarden vil ligge i master-branch og blir publisert til <https://data.norge.no/specification/forvaltningsstandard-begrepskoordinering>
+ - Utkast/høringsversjon ("review") vil bli publisert som GitHub pages: p.t. ingen.
 
-## Bidra
+## Å bidra direkte
 For å bidra til utviklingen av denne standarden, må du clone den til din datamaskin og opprette en pull request.
 
 ### Clone til din datamaskin
 For at det følgende skal virke på din maskin, må du ha programvare installert:  
  - [Git](https://git-scm.com/)
- - en tekst-editor, feks [Atom editor](https://atom.io/)
+ - en tekst-editor, f.eks. [Atom editor](https://atom.io/)
 
 
  Dersom du bruker Atom kan du gjøre som følger:  
@@ -35,7 +35,7 @@ Denne standarden er laget i [AsciiDoc](http://asciidoc.org/) med hjelp av verkt�
 
 Alle endringer må gjøre ved å endre eller legge til filer i docs-folderen. Se for eksempel på følgende veileder for god AsciiDoc praksis: https://asciidoctor.org/docs/asciidoc-recommended-practices
 
-En typisk git-arbeidsflyt vil vere som følger:
+En typisk git-arbeidsflyt vil være som følger:
 ```
 % git checkout master
 % git pull
@@ -49,11 +49,11 @@ Dersom du bruker Atom har du støtte for alt dette i Git-panelet.
 
 Gå til https://github.com/Informasjonsforvaltning/forvaltningsstandard-begrepskoordinering/pulls og opprett `New pull request`
 
-#### Forhåndsvisning
+#### Forhåndsvise
 Dersom du bruker [Atom editor](https://atom.io/) kan du installere pakken [AsciiDoc Assistant Package](https://atom.io/packages/asciidoc-assistant).
 Du vil da få syntax-uthevelse og forhåndsvisning.
 
-#### Generer html og pdf lokalt
+#### Generere html og pdf lokalt
 
 For at det følgende skal virke på din maskin, må du ha programvare installert:  
  - [docker](https://www.docker.com/products/docker-desktop)
@@ -65,8 +65,11 @@ bash-5.0# asciidoctor-pdf -D docs -o document.pdf docs/main.adoc
 ```
 Åpne filen index.html i din nettleser.
 
+- [AsciidocFX](https://asciidocfx.com/) er et annet alternativ for generering av html og pdf lokalt
+
+
 #### Teste html i en webserver på din maskin
-Dersom du vil teste html på en server på din maskin, kan du feks installere [Live Server](https://pypi.org/project/live-server/)
+Dersom du vil teste html på en server på din maskin, kan du f.eks. installere [Live Server](https://pypi.org/project/live-server/)
 For dette trenger du å installere Python på din datamaskin:
 - [python](https://www.python.org/downloads/)
 
