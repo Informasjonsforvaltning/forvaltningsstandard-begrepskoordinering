@@ -24,7 +24,7 @@ Standarden beskriver en prosess for å avklare likheter og ulikheter i innholdet
 
 Standarden er først og fremst tiltenkt offentlig forvaltning, men den vil være nyttig for alle organisasjoner og virksomheter som arbeider med begreper og termer i forbindelse med informasjonsforvaltning, datadeling, klarspråk og kommunikasjon med publikum.
 
-Standarden forutsetter grunnleggende kunnskap i begrepsarbeid og terminologi. Mer informasjon finner du i https://www.difi.no/referansekatalogen/begrepsanalyse-og-definisjonsarbeid[_Referansekatalogen_] og på https://www.sprakradet.no/Sprakarbeid/Terminologi/[Språkrådets nettsider]. Språkrådet er nasjonalt samordningsorgan for terminologiutvikling og bistår med kompetanse i begrepsarbeid og terminologi.
+Standarden forutsetter grunnleggende kunnskap i begrepsarbeid og terminologi. Mer informasjon finner du i https://www.digdir.no/digitalisering-og-samordning/begrepsanalyse-og-definisjonsarbeid/1483[_Referansekatalogen_] og på https://www.sprakradet.no/Sprakarbeid/Terminologi/[Språkrådets nettsider]. Språkrådet er nasjonalt samordningsorgan for terminologiutvikling og bistår med kompetanse i begrepsarbeid og terminologi.
 
 === Avgrensninger
 

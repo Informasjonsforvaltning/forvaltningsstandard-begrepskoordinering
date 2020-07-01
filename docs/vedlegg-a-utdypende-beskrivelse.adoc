@@ -33,10 +33,10 @@ Det finnes også en rekke sektorspesifikke kilder. En oversikt finnes på https:
 Det finnes også internasjonale kilder, f.eks. EUs termbase https://iate.europa.eu/home[IATE] og https://www.iso.org/obp/ui/[ISO Online Browsing Platform (OBP)] eller sektorspesifikke baser som f.eks. http://www.electropedia.org/[Electropedia] for elektroteknikk og https://ec.europa.eu/home-affairs/what-we-do/networks/european_migration_network/glossary_search_en[EMN Glossary] for migrasjon.
 
 Punkt 3::
- Dere kan bruke et vanlig hvitt ark eller et program til å tegne begrepsdiagram. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/termlosen[_Termlosen_] gir en innføring i begrepsdiagram og inndelingskriterium.
+ Dere kan bruke et vanlig hvitt ark eller et program til å tegne begrepsdiagram. https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_] gir en innføring i begrepsdiagram og inndelingskriterium.
 
 Punkt 4::
- Se også her https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/termlosen[_Termlosen_].
+ Se også her https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_].
 
 
 === Steg 2: Valg mellom begrepsharmonisering og begrepsdifferensiering [[Steg2]]
@@ -98,11 +98,11 @@ Punkt 3::
 
 Nyttige kilder for å undersøke eventuelle planlagte lovendringer eller nye stortingsmeldinger og NOU-er: https://lovdata.no/[Lovdata.no], https://stortinget.no/no/[Stortinget.no] og https://www.regjeringen.no[Regjeringen.no].
 
-Deltakerne bør ta kontakt med relevante organer om de planlegger å revidere standarder: https://www.standard.no/standarder-pa-horing/[Standard.no], https://www.nek.no/[Nek.no] og https://www.nkom.no/[Nkom.no], https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/forslag-og-utredninger[Digitaliseringsdirektoratet], https://www.cen.eu/Pages/default.aspx[den europeiske standardiseringsorganisasjonen CEN] og https://www.iso.org/home.html[den internasjonale standardiseringsorganisasjonen ISO].
+Deltakerne bør ta kontakt med relevante organer om de planlegger å revidere standarder: https://www.standard.no/standarder-pa-horing/[Standard.no], https://www.nek.no/[Nek.no] og https://www.nkom.no/[Nkom.no], https://www.digdir.no/digitalisering-og-samordning/utredning-av-nye-krav-til-standarder/1472[Digitaliseringsdirektoratet], https://www.cen.eu/Pages/default.aspx[den europeiske standardiseringsorganisasjonen CEN] og https://www.iso.org/home.html[den internasjonale standardiseringsorganisasjonen ISO].
 
 Stoppes arbeidet (alternativ C) fordi begrepene har opphav i lover eller forskrifter, bør deltakerne ta kontakt med ansvarlig departement for å informere om kartleggingen de har gjort, resultatet av den og nytten av å endre lov eller forskrift. Da kan det være mulig å ta hensyn til begrepene ved neste revisjon av den aktuelle loven eller forskriften.
 
-Har begrepene opphav i standarder, bør deltakerne ta kontakt med ansvarlig organ for standarden eller standardene (f.eks. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/arkitektur-og-standardiseringsradet[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av å endre standarden eller utvikle ny standard.
+Har begrepene opphav i standarder, bør deltakerne ta kontakt med ansvarlig organ for standarden eller standardene (f.eks. https://www.digdir.no/digitalisering-og-samordning/arkitektur-og-standardiseringsradet/1473[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av å endre standarden eller utvikle ny standard.
 
 
 === Steg 3: Begrepsharmonisering [[Steg3]]
@@ -129,9 +129,9 @@ For å sørge for at deltakerne bruker identiske begreper.
 
 ==== Tips
 
-Punkt 3 og 4:: Det finnes en metode for terminologisk arbeid, se https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/termlosen[_Termlosen_].
+Punkt 3 og 4:: Det finnes en metode for terminologisk arbeid, se https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_].
 
-Om deltakerne blir enige om nye, felles begreper som avviker fra standarder, bør begrepsansvarlig (se <<Steg5, steg 5>>) tar kontakt med ansvarlig organ (f.eks. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/arkitektur-og-standardiseringsradet[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av endre standarden. Da kan det være mulig å ta hensyn til de nye, felles begrepene ved neste revisjon av den aktuelle standarden.
+Om deltakerne blir enige om nye, felles begreper som avviker fra standarder, bør begrepsansvarlig (se <<Steg5, steg 5>>) tar kontakt med ansvarlig organ (f.eks. https://www.digdir.no/digitalisering-og-samordning/arkitektur-og-standardiseringsradet/1473[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av endre standarden. Da kan det være mulig å ta hensyn til de nye, felles begrepene ved neste revisjon av den aktuelle standarden.
 
 
 === Steg 4: Begrepsdifferensiering [[Steg4]]
