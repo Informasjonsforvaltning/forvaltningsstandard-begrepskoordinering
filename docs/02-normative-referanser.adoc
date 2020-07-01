@@ -4,7 +4,7 @@ Følgende referanser er normative og danner grunnlag for denne standarden:
 
 * https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_]: en forvaltningsstandard som gir en kort innføring i begrepsanalyse og terminologiarbeid.
 
-* NS-ISO 1087:2020 _Terminologiarbeid og terminologivitenskap — Ordliste_: internasjonal standard som definerer sentrale begreper i terminologi- og begrepsarbeid.
+* NS-ISO 1087:2019 _Terminologiarbeid og terminologivitenskap — Ordliste_: internasjonal standard som definerer sentrale begreper i terminologi- og begrepsarbeid.
 
 * ISO 860:2007 _Terminology work — Harmonization of concepts and terms_: internasjonal standard for begrepsharmonisering.
 
