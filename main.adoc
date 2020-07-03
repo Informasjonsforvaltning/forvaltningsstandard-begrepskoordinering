@@ -1,4 +1,6 @@
-= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0
+include::locale/attributes.adoc[]
+
+= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0.1
 :description: Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering
 :doctype: book
 :docinfo:
@@ -13,7 +15,9 @@
 
 image::digitaliseringsdirektoratet.png[width=50%, pdfwidth=30vw]
 
-Publisert: 2020-05-08
+*Publisert*: 2020-05-08 (v. 2.0) +
+*Oppdatert*: 2020-07-01 (v. 2.0.1) +
+*Status*: Gjeldende
 
 // WARNING: under publisering (små justeringer kan komme).
 
@@ -22,7 +26,6 @@ Publisert: 2020-05-08
 //:sectnumlevels: 3
 
 //{description}
-include::locale/attributes.adoc[]
 
 include::shared/download.adoc[]
 

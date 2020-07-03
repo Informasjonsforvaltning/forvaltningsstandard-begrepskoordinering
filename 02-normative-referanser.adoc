@@ -2,10 +2,10 @@
 
 Følgende referanser er normative og danner grunnlag for denne standarden:
 
-* https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/termlosen[_Termlosen_]: en forvaltningsstandard som gir en kort innføring i begrepsanalyse og terminologiarbeid.
+* https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_]: en forvaltningsstandard som gir en kort innføring i begrepsanalyse og terminologiarbeid.
 
-* NS-ISO 1087:2020 _Terminologiarbeid og terminologivitenskap — Ordliste_: internasjonal standard som definerer sentrale begreper i terminologi- og begrepsarbeid.
+* NS-ISO 1087:2019 _Terminologiarbeid og terminologivitenskap — Ordliste_: internasjonal standard som definerer sentrale begreper i terminologi- og begrepsarbeid.
 
 * ISO 860:2007 _Terminology work — Harmonization of concepts and terms_: internasjonal standard for begrepsharmonisering.
 
-* https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/[_Forvaltningsstandard for begrepsbeskrivelser_]: norsk forvaltningsstandard for beskrivelse av begreper.
+* https://www.digdir.no/digitale-felleslosninger/forvaltningsstandard-begrepsbeskrivelser/1649[_Forvaltningsstandard for begrepsbeskrivelser_]: norsk forvaltningsstandard for beskrivelse av begreper.

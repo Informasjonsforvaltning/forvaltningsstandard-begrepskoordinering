@@ -126,7 +126,7 @@ Følg terminologiske metoder ved fastsetting av termer og definisjoner: analyser
 ==== Tips
 https://www.sprakradet.no/Sprakarbeid/Terminologi/[Språkrådets nettsider] gir mer informasjon om terminologi.
 
-https://www.difi.no/referansekatalogen/begrepsanalyse-og-definisjonsarbeid[_Referansekatalogen_] inneholder relevante standarder for begrepsanalyse og definisjonsarbeid, inkl. _Termlosen_.
+https://www.digdir.no/digitalisering-og-samordning/begrepsanalyse-og-definisjonsarbeid/1483[_Referansekatalogen_] inneholder relevante standarder for begrepsanalyse og definisjonsarbeid, inkl. _Termlosen_.
 
 https://www.standard.no/termbasen/[Termbasen SNORRE] inneholder en rekke definisjoner av sentrale begreper i terminologi og terminologiarbeid.
 
