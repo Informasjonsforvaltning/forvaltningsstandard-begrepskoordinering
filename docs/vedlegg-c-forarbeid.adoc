@@ -23,7 +23,7 @@ Eksempel: Skape felles, enhetlig rapportering og statistikk om studenttall i uni
 Eksempel: Opplysningen skal beskrive/angi antall heltidsstudenter og antall deltidsstudenter på ulike studieprogram og på ulike studiesteder samt gjennomføringsgraden deres.
 
 . Hvilken informasjon skal begrepene _ikke_ beskrive?
-Eksempel: Opplysningene skal gi ikke gi svar på hvor mange studenter som mottar studielån, hvor mange som har søkt på et studium og hvor mange som har permisjon fra studiene.
+Eksempel: Opplysningene skal ikke gi svar på hvor mange studenter som mottar studielån, hvor mange som har søkt på et studium og hvor mange som har permisjon fra studiene.
 
 . Finnes det tilgrensende fagområder som faller utenfor?
 Eksempel: Andre, relevante fagområder er søknad og opptak, studiestøtte, studentmobilitet, men disse skal ikke omfattes i prosjektet.
