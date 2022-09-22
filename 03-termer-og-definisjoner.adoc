@@ -1,6 +1,6 @@
 == Termer og definisjoner
 
-Dette kapitlet inneholder definisjon av noen av de sentrale begrepene som er brukt i prosessmodellen i denne standarden. Andre begreper som er brukt, kan du finne i https://www.standard.no/termbasen/[termbasen Snorre], fra Standard Norge.
+Dette kapitlet inneholder definisjon av noen av de sentrale begrepene som er brukt i prosessmodellen i denne standarden. Andre begreper som er brukt, kan du finne i https://www.standard.no/termbasen/[termbasen SNORRE], fra Standard Norge.
 
 Notasjon som er brukt: Anbefalt term er ført opp i *fet skrift*, eventuell tillatt term i vanlig skrift og rett under anbefalt term, før definisjonen.
 
@@ -18,9 +18,9 @@ begrepsharmonisering::
 
 terminologiarbeid med formål å etablere en sammenheng mellom to eller flere nært beslektede eller overlappende begreper for å fjerne eller redusere mindre ulikheter mellom dem
 
-Kilde til definisjon: ISO 1087:2019 3.5.4 concept harmonization
+Kilde til definisjon: https://www.standard.no/toppvalg/termbasen/Termpost/?TermPostId=36739[NS-ISO 1087:2019]
 
-Merknad: Gjennom begrepsharmoniseringen skaper vi en felles definisjon og felles term for der det opprinnelig var to eller flere ulike definisjoner og/eller to eller flere ulike termer. Mindre ulikheter som gjenstår, f.eks. uvesentlige kjennetegn, kan reduseres ved at de flyttes til et merknadsfelt, slik at definisjonen er helt like.
+Merknad: Gjennom begrepsharmoniseringen skaper vi en felles definisjon og felles term for der det opprinnelig var to eller flere ulike definisjoner og/eller to eller flere ulike termer. Mindre ulikheter som gjenstår, f.eks. uvesentlige kjennetegn, kan reduseres ved at de flyttes til et merknadsfelt, slik at definisjonene er helt like.
 
 === begrepsdifferensiering [[begrepsdifferensiering]][[Begrepsdifferensiering]]
 

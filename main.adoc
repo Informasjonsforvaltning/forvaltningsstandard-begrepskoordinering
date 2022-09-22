@@ -1,4 +1,6 @@
-= (UTKAST) Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0
+include::locale/attributes.adoc[]
+
+= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0.1
 :description: Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering
 :doctype: book
 :docinfo:
@@ -13,9 +15,11 @@
 
 image::digitaliseringsdirektoratet.png[width=50%, pdfwidth=30vw]
 
-Publisert: <under publisering>
+*Publisert*: 2020-05-08 (v. 2.0) +
+*Oppdatert*: 2020-07-01 (v. 2.0.1) +
+*Status*: Gjeldende
 
-WARNING: under publisering (små justeringer kan komme).
+// WARNING: under publisering (små justeringer kan komme).
 
 //:sectnums:
 
@@ -24,6 +28,9 @@ WARNING: under publisering (små justeringer kan komme).
 //{description}
 
 include::shared/download.adoc[]
+
+NOTE: *Innmelding av feil og mangler:* +
+Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn på https://github.com/Informasjonsforvaltning/forvaltningsstandard-begrepskoordinering/issues[Github Issues]. Dersom du ikke allerede har bruker på Github kan du opprette bruker gratis.
 
 // :leveloffset: +1
 
@@ -48,5 +55,3 @@ include::vedlegg-c-forarbeid.adoc[]
 include::vedlegg-d-endringslogg.adoc[]
 
 include::shared/stats.adoc[]
-
-include::shared/translation.adoc[]

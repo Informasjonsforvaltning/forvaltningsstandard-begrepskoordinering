@@ -7,7 +7,7 @@ Utveksling og gjenbruk av data og brukertjenester på tvers av virksomheter foru
 
 Eksempler på behov for å harmonisere eller differensiere begreper:
 
-* En offentlig virksomhet skal utvikle en ny digital løsning. Virksomheten ønsker å gjenbruke data som de fra Felles datakatalog ser at en annen offentlig virksomhet allerede har innhentet. Imidlertid oppdager de i Felles begrepskatalog at begrepene som benyttes i datagrunnlaget, er ulike i de to virksomhetene. Man står derfor i fare for å feiltolke dataene, og den nye løsningen vil føre til hodebry, ikke effektivitet. Virksomhetene trenger et felles begrepsapparat.
+* En offentlig virksomhet skal utvikle en ny digital løsning. Virksomheten ønsker å gjenbruke data som de fra Felles datakatalog ser at en annen offentlig virksomhet allerede har innhentet. Imidlertid oppdager de i begrepskatalogen (del av Felles datakatalog) at begrepene som benyttes i datagrunnlaget, er ulike i de to virksomhetene. Man står derfor i fare for å feiltolke dataene, og den nye løsningen vil føre til hodebry, ikke effektivitet. Virksomhetene trenger et felles begrepsapparat.
 * To avdelinger i en virksomhet bruker samme fagterm om ulike begreper på nettsidene og i interne rutinedokumenter. Det skaper misforståelser både blant ansatte og publikum. Virksomheten trenger å tydeliggjøre forskjellene mellom begrepene ved f.eks. å bruke ulike termer for å unngå slike misforståelser.
 
 Det som virksomhetene i ovennevnte eksempler også trenger, er felles verktøy og metoder for begrepsharmonisering og begrepsdifferensiering.
@@ -24,7 +24,7 @@ Standarden beskriver en prosess for å avklare likheter og ulikheter i innholdet
 
 Standarden er først og fremst tiltenkt offentlig forvaltning, men den vil være nyttig for alle organisasjoner og virksomheter som arbeider med begreper og termer i forbindelse med informasjonsforvaltning, datadeling, klarspråk og kommunikasjon med publikum.
 
-Standarden forutsetter grunnleggende kunnskap i begrepsarbeid og terminologi. Mer informasjon finner du i https://www.difi.no/referansekatalogen/begrepsanalyse-og-definisjonsarbeid[_Referansekatalogen_] og på https://www.sprakradet.no/Sprakarbeid/Terminologi/[Språkrådets nettsider]. Språkrådet er nasjonalt samordningsorgan for terminologiutvikling og bistår med kompetanse i begrepsarbeid og terminologi.
+Standarden forutsetter grunnleggende kunnskap i begrepsarbeid og terminologi. Mer informasjon finner du i https://www.digdir.no/digitalisering-og-samordning/begrepsanalyse-og-definisjonsarbeid/1483[_Referansekatalogen_] og på https://www.sprakradet.no/Sprakarbeid/Terminologi/[Språkrådets nettsider]. Språkrådet er nasjonalt samordningsorgan for terminologiutvikling og bistår med kompetanse i begrepsarbeid og terminologi.
 
 === Avgrensninger
 

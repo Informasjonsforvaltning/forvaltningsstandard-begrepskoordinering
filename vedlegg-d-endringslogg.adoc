@@ -1,5 +1,7 @@
 == Vedlegg D (ikke-normativt) - Viktigste endringer fra versjon 1 til denne versjon av standarden [[vedlegg-d]]
 
+=== Endringer fra versjon 1.0 til 2.0
+
 Viktigste endringer fra versjon 1 til denne versjon av standarden:
 
 * Tittelen til standarden er endret, som nå gjenspeiler både at dette er en forvaltningsstandard og at standarden også omfatter begrepsharmonisering.
@@ -7,3 +9,7 @@ Viktigste endringer fra versjon 1 til denne versjon av standarden:
 * Omfanget er utvidet fra begrepsdifferensiering (omtalt som _begrepskoordinering_ i forrige versjon), til nå også begrepsharmonisering.
 * Denne versjonen av standarden fokuserer på terminologifaglige aspekter av denne type arbeid, og henviser til andre ressurser når det gjelder ikke-terminologifaglige aspekter som f.eks. prosjektorganisering og prosjektgjennomføring generelt.
 * I denne versjonen er det laget en modell for å illustrere prosessen. Hensikten med modellen er å formidle de overordnete stegene i prosessen og den er ikke modellert i henhold et gitt modelleringspråk.
+
+=== Endringer fra versjon 2.0 til 2.0.x
+
+Det er kun redaksjonelle endringer fra versjon 2.0 til 2.0.x, som ikke beskrives her i vedlegget. Med redaksjonelle endringer menes bl.a. endringer i formatering/strukturering eller justeringer i tekst/tegninger/tabeller/eksempler som ikke endrer kravene i standarden. mailto:informasjonsforvaltning@digdir.no[Ta kontakt med Digitaliseringsdirektoratet] for mer informasjon om de redaksjonelle endringene.

@@ -1,8 +1,8 @@
-== Vedlegg A (ikke-normativt) - utdypende beskrivelse av stegene i prosessmodell  [[vedlegg-a]]
+== Vedlegg A (ikke-normativt) - utdypende beskrivelse av stegene i prosessmodell [[vedlegg-a]]
 
 I dette vedlegget utdypes stegene i <<prosessmodell, prosessmodellen>> (figur 1) i den normative delen av standarden.
 
-=== Steg 1: Sammenstilling av begreper
+=== Steg 1: Sammenstilling av begreper [[Steg1]]
 
 ==== Hvorfor
 For å identifisere likhetene og ulikhetene mellom begrepene som skal harmoniseres eller differensieres, slik at det blir lettere å ta et realistisk valg i neste steg.
@@ -26,20 +26,20 @@ For å identifisere likhetene og ulikhetene mellom begrepene som skal harmoniser
 
 ==== Tips
 Punkt 2::
-Nyttige kilder til definisjoner og termer: https://lovdata.no/[Lovdata], https://fellesdatakatalog.digdir.no/concepts[Felles begrepskatalog], https://snl.no/[Store norske leksikon], https://www.standard.no/toppvalg/termbasen/[Termbasen Snorre], https://oda.uib.no/app?ma=term&mg=aterm[Termportalen] og https://nfm.sdlproducts.com/multiterm[Utenriksdepartementets EU-base] (sistnevnte krever pålogging: brukernavn: guest passord: guest). https://ordbok.uib.no/[_Bokmålsordboka_, _Nynorskordboka_] og https://www.naob.no/[_Det Norske Akademis Ordbok_] finnes også, men disse inneholder hovedsakelig begreper fra allmennspråket.
-+
+Nyttige kilder til definisjoner og termer: https://lovdata.no/[Lovdata], https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen], https://snl.no/[Store norske leksikon], https://www.standard.no/toppvalg/termbasen/[Termbasen SNORRE], https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen] og https://nfm.sdlproducts.com/multiterm[Utenriksdepartementets EU-base] (sistnevnte krever pålogging: brukernavn: guest passord: guest). https://ordbok.uib.no/[_Bokmålsordboka_, _Nynorskordboka_] og https://www.naob.no/[_Det Norske Akademis Ordbok_] finnes også, men disse inneholder hovedsakelig begreper fra allmennspråket.
+
 Det finnes også en rekke sektorspesifikke kilder. En oversikt finnes på https://www.sprakradet.no/Sprakarbeid/Terminologi/termlister-og-termbaser/[Språkrådets nettsider].
-+
+
 Det finnes også internasjonale kilder, f.eks. EUs termbase https://iate.europa.eu/home[IATE] og https://www.iso.org/obp/ui/[ISO Online Browsing Platform (OBP)] eller sektorspesifikke baser som f.eks. http://www.electropedia.org/[Electropedia] for elektroteknikk og https://ec.europa.eu/home-affairs/what-we-do/networks/european_migration_network/glossary_search_en[EMN Glossary] for migrasjon.
 
 Punkt 3::
- Dere kan bruke et vanlig hvitt ark eller et program til å tegne begrepsdiagram. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/termlosen[_Termlosen_] gir en innføring i begrepsdiagram og inndelingskriterium.
+ Dere kan bruke et vanlig hvitt ark eller et program til å tegne begrepsdiagram. https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_] gir en innføring i begrepsdiagram og inndelingskriterium.
 
 Punkt 4::
- Se også her https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/termlosen[_Termlosen_].
+ Se også her https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_].
 
 
-=== Steg 2: Valg mellom begrepsharmonisering og begrepsdifferensiering
+=== Steg 2: Valg mellom begrepsharmonisering og begrepsdifferensiering [[Steg2]]
 
 ==== Hvorfor
 For å foreta et realistisk valg ved å utrede mulighetene for begrepsharmonisering eller begrepsdifferensiering.
@@ -75,17 +75,17 @@ Jo flere spørsmål knyttet til punkt 1 (under) som blir besvart med “i liten 
 * I hvilken grad har de involverte virksomhetene myndighet til å harmonisere eller differensiere begrepene?
 
 3. Realistisk valg:
-+
-I noen tilfeller vil er det etter vurderingene i punkt 1 og 2 ikke være hensiktsmessig å sette i gang et arbeid med å harmonisere eller differensiere. Det er likevel viktig å dokumentere vurderingene.
-+
+
+I noen tilfeller vil det etter vurderingene i punkt 1 og 2 ikke være hensiktsmessig å sette i gang et arbeid med å harmonisere eller differensiere. Det er likevel viktig å dokumentere vurderingene.
+
 Utfallet av vurderingene av hvert enkelt begrep er ett av følgende alternativer for det videre arbeidet:
-+
+
 ["upperalpha"]
 . Begrepsharmonisering: steg 3
 . Begrepsdifferensiering: steg 4
 . Verken begrepsharmonisering eller begrepsdifferensiering: slutt
 
-+
+
 Når det dreier seg om et sett av begreper, kan utfallet være en kombinasjon av alternativene. Noen av begrepene kan harmoniseres, mens andre kan differensieres eller avsluttes uten noe resultat.
 
 ==== Tips
@@ -97,15 +97,15 @@ For statlige virksomheter finnes https://dfo.no/fagomrader/utredningsinstruksen[
 Punkt 3::
 
 Nyttige kilder for å undersøke eventuelle planlagte lovendringer eller nye stortingsmeldinger og NOU-er: https://lovdata.no/[Lovdata.no], https://stortinget.no/no/[Stortinget.no] og https://www.regjeringen.no[Regjeringen.no].
-+
-Relevante nettsider for å undersøke eventuelle endringer av standarder: https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/forslag-og-utredninger[Referansekatalogen], https://www.standard.no/standarder-pa-horing/[Standard.no], https://www.nek.no/[Nek.no] og https://www.nkom.no/[Nkom.no]. Det samme gjelder nettsider til internasjonale organisasjoner som https://www.cen.eu/Pages/default.aspx[den europeiske standardiseringsorganisasjonen CEN] og https://www.iso.org/home.html[den internasjonale standardiseringsorganisasjoen ISO].
-+
+
+Deltakerne bør ta kontakt med relevante organer om de planlegger å revidere standarder: https://www.standard.no/standarder-pa-horing/[Standard.no], https://www.nek.no/[Nek.no] og https://www.nkom.no/[Nkom.no], https://www.digdir.no/digitalisering-og-samordning/utredning-av-nye-krav-til-standarder/1472[Digitaliseringsdirektoratet], https://www.cen.eu/Pages/default.aspx[den europeiske standardiseringsorganisasjonen CEN] og https://www.iso.org/home.html[den internasjonale standardiseringsorganisasjonen ISO].
+
 Stoppes arbeidet (alternativ C) fordi begrepene har opphav i lover eller forskrifter, bør deltakerne ta kontakt med ansvarlig departement for å informere om kartleggingen de har gjort, resultatet av den og nytten av å endre lov eller forskrift. Da kan det være mulig å ta hensyn til begrepene ved neste revisjon av den aktuelle loven eller forskriften.
-+
-Har begrepene opphav i standarder, bør deltakerne ta kontakt med ansvarlig organ for standarden eller standardene (f.eks. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/arkitektur-og-standardiseringsradet[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av å endre standarden eller utvikle ny standard.
+
+Har begrepene opphav i standarder, bør deltakerne ta kontakt med ansvarlig organ for standarden eller standardene (f.eks. https://www.digdir.no/digitalisering-og-samordning/arkitektur-og-standardiseringsradet/1473[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av å endre standarden eller utvikle ny standard.
 
 
-=== Steg 3: Begrepsharmonisering
+=== Steg 3: Begrepsharmonisering [[Steg3]]
 
 ==== Hvorfor
 For å sørge for at deltakerne bruker identiske begreper.
@@ -125,16 +125,16 @@ For å sørge for at deltakerne bruker identiske begreper.
 
 4. Deltakerne utformer definisjoner og fastsette termer for nye, felles begreper.
 
-5. Deltakerne registrerer og tilgjengeliggjør begrepene som virksomhetene blir enige om å harmonisere i en termbase, f.eks. https://fellesdatakatalog.digdir.no/concepts[Felles begrepskatalog] eller https://oda.uib.no/app?ma=term&mg=aterm[Termportalen].
+5. Deltakerne registrerer og tilgjengeliggjør begrepene som virksomhetene blir enige om å harmonisere i en termbase, f.eks. https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen] eller https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen].
 
 ==== Tips
 
-Punkt 3 og 4:: Det finnes en metode for terminologisk arbeid, se https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/termlosen[_Termlosen_].
-+
-Om deltakerne blir enige om nye, felles begreper som avviker fra standarder, bør begrepsansvarlig (se <<Steg5, steg 5>>) tar kontakt med ansvarlig organ (f.eks. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/arkitektur-og-standardiseringsradet[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av endre standarden. Da kan det være mulig å ta hensyn til de nye, felles begrepene ved neste revisjon av den aktuelle standarden.
+Punkt 3 og 4:: Det finnes en metode for terminologisk arbeid, se https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_].
+
+Om deltakerne blir enige om nye, felles begreper som avviker fra standarder, bør begrepsansvarlig (se <<Steg5, steg 5>>) tar kontakt med ansvarlig organ (f.eks. https://www.digdir.no/digitalisering-og-samordning/arkitektur-og-standardiseringsradet/1473[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av endre standarden. Da kan det være mulig å ta hensyn til de nye, felles begrepene ved neste revisjon av den aktuelle standarden.
 
 
-=== Steg 4: Begrepsdifferensiering
+=== Steg 4: Begrepsdifferensiering [[Steg4]]
 
 ==== Hvorfor
 For å tydeliggjøre forskjeller mellom begrepene slik at de ikke brukes eller forståes som om de var identiske.
@@ -159,10 +159,10 @@ Forskjeller i begrepene kan bli tydeliggjort på en eller flere av følgende må
 
 ==== Tips
 Punkt 1::
- Dersom definisjonene bruker ulike type kjennetegn, er det en god idé å tydeliggjøre forskjellene ikke bare ved hjelp av endret ordlyd, men også ved å bruke merknadsfeltet.
+ Dersom definisjonene bruker ulike typer kjennetegn, er det en god idé å tydeliggjøre forskjellene ikke bare ved hjelp av endret ordlyd, men også ved å bruke merknadsfeltet.
 
 
-=== Steg 5: Enighet om forvaltningsmodell
+=== Steg 5: Enighet om forvaltningsmodell [[Steg5]]
 
 ==== Hvorfor
 For å sikre at de nye begrepene blir forvaltet på en trygg og hensiktsmessig måte.
@@ -170,7 +170,7 @@ For å sikre at de nye begrepene blir forvaltet på en trygg og hensiktsmessig m
 ==== Forslag til framgangsmåte
 
 1. Ved begrepsharmonisering:
-Deltakerne blir enige om hvem som skal være ansvarlig for forvaltning av de harmoniserte begrepene. Dersom flere er ansvarlige for ulike deler av begrepssystemet, er det hensiktsmessig å utpeke en hovedansvarlig for det totale begrepssystemet.
+Deltakerne blir enige om hvem som skal være ansvarlig for forvaltning av de harmoniserte begrepene. Dersom flere er ansvarlig for ulike deler av begrepssystemet, er det hensiktsmessig å utpeke en hovedansvarlig for det totale begrepssystemet.
 
 2. Ved både begrepsharmonisering og begrepsdifferensiering:
 Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov for begrepsendringer.

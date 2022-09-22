@@ -1,0 +1,4 @@
+# Ignore pdf in this directory
+*.pdf
+# Except this file
+!.gitignore
