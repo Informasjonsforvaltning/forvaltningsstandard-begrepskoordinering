@@ -1,4 +1,4 @@
-name: build adocs and publish to production
+name: build adocs and publish to staging
 
 on:
   push:
@@ -15,7 +15,9 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          ref: v1
 
       - name: Build html
         id: adocbuild
@@ -36,8 +38,8 @@ jobs:
         with:
           ontology-type: "specification"
           ontology: "forvaltningsstandard-begrepskoordinering"
-          host: "https://fellesdatakatalog.digdir.no"
-          api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY }}
+          host: "https://staging.fellesdatakatalog.digdir.no"
+          api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY_STAGING }}
           files: |
             docs/index.html text/html nb
             docs/files/forvaltningsstandard-begrepskoordinering.pdf application/pdf nb files/forvaltningsstandard-begrepskoordinering.pdf
