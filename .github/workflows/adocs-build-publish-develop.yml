@@ -1,4 +1,4 @@
-name: build adocs and publish to develop (github pages)
+name: Build adocs and publish develop to Github pages
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   adoc_build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     name: asciidoctor build
 
     steps:
@@ -19,13 +19,13 @@ jobs:
 
       - name: Build html
         id: adocbuild
-        uses: avattathil/asciidoctor-action@master
+        uses: tonynv/asciidoctor-action@master
         with:
           program: "asciidoctor -D docs -o index.html -a lang=nb docs/main.adoc"
 
       - name: Build pdf
         id: adocbuild_pdf
-        uses: avattathil/asciidoctor-action@master
+        uses: tonynv/asciidoctor-action@master
         with:
           program: "asciidoctor-pdf -D docs -o files/forvaltningsstandard-begrepskoordinering.pdf -a lang=nb docs/main.adoc"
         continue-on-error: true
