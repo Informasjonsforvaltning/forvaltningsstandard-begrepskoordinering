@@ -4,9 +4,10 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.17">
+<meta name="generator" content="Asciidoctor 2.0.18">
 <meta name="description" content="Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering">
-<title>Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0.1</title>
+<meta name="author" content="Digitaliseringsdirektoratet (Digdir) / The Norwegian Digitalisation Agency">
+<title>Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -85,10 +86,10 @@ code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;
 ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
 ul,ol{margin-left:1.5em}
 ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
-ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
-ul.square{list-style-type:square}
 ul.circle{list-style-type:circle}
 ul.disc{list-style-type:disc}
+ul.square{list-style-type:square}
+ul.circle ul:not([class]),ul.disc ul:not([class]),ul.square ul:not([class]){list-style:inherit}
 ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
 dl dt{margin-bottom:.3125em;font-weight:bold}
 dl dd{margin-bottom:1.25em}
@@ -462,7 +463,10 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </head>
 <body class="book toc2 toc-left">
 <div id="header">
-<h1>Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0.1</h1>
+<h1>Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering</h1>
+<div class="details">
+<span id="author" class="author">Digitaliseringsdirektoratet (Digdir) / The Norwegian Digitalisation Agency</span><br>
+</div>
 <div id="toc" class="toc2">
 <div id="toctitle">Innholdsfortegnelse</div>
 <ul class="sectlevel1">
@@ -588,8 +592,8 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </li>
 <li><a href="#vedlegg-d">Vedlegg D (ikke-normativt) - Viktigste endringer fra versjon 1 til denne versjon av standarden</a>
 <ul class="sectlevel2">
-<li><a href="#_endringer_fra_versjon_1_0_til_2_0">Endringer fra versjon 1.0 til 2.0</a></li>
 <li><a href="#_endringer_fra_versjon_2_0_til_2_0_x">Endringer fra versjon 2.0 til 2.0.x</a></li>
+<li><a href="#_endringer_fra_versjon_1_0_til_2_0">Endringer fra versjon 1.0 til 2.0</a></li>
 </ul>
 </li>
 </ul>
@@ -600,13 +604,16 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
-<img src="images/digitaliseringsdirektoratet.png" alt="digitaliseringsdirektoratet" width="50%">
+<a class="image" href="https://digdir.no/"><img src="images/Digdir.png" alt="Digdir" width="50%"></a>
 </div>
 </div>
 <div class="paragraph">
-<p><strong>Publisert</strong>: 2020-05-08 (v. 2.0)<br>
-<strong>Oppdatert</strong>: 2020-07-01 (v. 2.0.1)<br>
-<strong>Status</strong>: Gjeldende</p>
+<p><strong>Status</strong>: Gjeldende<br>
+<strong>Versjon</strong>: 2.0.2<br>
+<strong>Publisert</strong>: 2020-05-08 (v. 2.0)<br>
+<strong>Oppdatert</strong>: 2023-02-20 (v. 2.0.2)<br>
+<strong>Gjeldende versjon</strong>: <a href="https://data.norge.no/specification/forvaltningsstandard-begrepskoordinering" class="bare">https://data.norge.no/specification/forvaltningsstandard-begrepskoordinering</a><br>
+<strong>Redaktørens utkast</strong>: <a href="https://informasjonsforvaltning.github.io/forvaltningsstandard-begrepskoordinering" class="bare">https://informasjonsforvaltning.github.io/forvaltningsstandard-begrepskoordinering</a></p>
 </div>
 <div class="admonitionblock tip">
 <table>
@@ -633,6 +640,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </tr>
 </table>
 </div>
+<!-- toc disabled -->
 </div>
 </div>
 <div class="sect1">
@@ -715,16 +723,16 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://www.digdir.no/digitale-felleslosninger/termlosen/1648"><em>Termlosen</em></a>: en forvaltningsstandard som gir en kort innføring i begrepsanalyse og terminologiarbeid.</p>
+<p><a href="https://data.norge.no/specification/termlosen"><em>Termlosen</em></a>: forvaltningsstandard som gir en kort innføring i begrepsanalyse og terminologiarbeid.</p>
 </li>
 <li>
-<p>NS-ISO 1087:2019 <em>Terminologiarbeid og terminologivitenskap — Ordliste</em>: internasjonal standard som definerer sentrale begreper i terminologi- og begrepsarbeid.</p>
+<p><a href="https://standard.no/no/Nettbutikk/produktkatalogen/Produktpresentasjon/?ProductID=1131185">NS-ISO 1087:2019 <em>Terminologiarbeid og terminologivitenskap — Ordliste</em></a>: internasjonal standard som definerer sentrale begreper i terminologi- og begrepsarbeid.</p>
 </li>
 <li>
-<p>ISO 860:2007 <em>Terminology work — Harmonization of concepts and terms</em>: internasjonal standard for begrepsharmonisering.</p>
+<p><a href="https://standard.no/no/Nettbutikk/produktkatalogen/Produktpresentasjon/?ProductID=301717">ISO 860:2007 <em>Terminology work — Harmonization of concepts and terms</em></a>: internasjonal standard for begrepsharmonisering.</p>
 </li>
 <li>
-<p><a href="https://www.digdir.no/digitale-felleslosninger/forvaltningsstandard-begrepsbeskrivelser/1649"><em>Forvaltningsstandard for begrepsbeskrivelser</em></a>: norsk forvaltningsstandard for beskrivelse av begreper.</p>
+<p><a href="https://data.norge.no/specification/skos-ap-no-begrep"><em>Forvaltningsstandard for begrepsbeskrivelser (SKOS-AP-NO)</em></a>: forvaltningsstandard for begrepsbeskrivelser.</p>
 </li>
 </ul>
 </div>
@@ -734,7 +742,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 <h2 id="_termer_og_definisjoner"><a class="anchor" href="#_termer_og_definisjoner"></a>Termer og definisjoner</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Dette kapitlet inneholder definisjon av noen av de sentrale begrepene som er brukt i prosessmodellen i denne standarden. Andre begreper som er brukt, kan du finne i <a href="https://www.standard.no/termbasen/">termbasen SNORRE</a>, fra Standard Norge.</p>
+<p>Dette kapitlet inneholder definisjon av noen av de sentrale begrepene som er brukt i prosessmodellen i denne standarden. Andre begreper som er brukt, kan du finne i <a href="https://termbasen.standard.no/">Termbasen</a> til Standard Norge.</p>
 </div>
 <div class="paragraph">
 <p>Notasjon som er brukt: Anbefalt term er ført opp i <strong>fet skrift</strong>, eventuell tillatt term i vanlig skrift og rett under anbefalt term, før definisjonen.</p>
@@ -764,7 +772,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </dl>
 </div>
 <div class="paragraph">
-<p>Kilde til definisjon: <a href="https://www.standard.no/toppvalg/termbasen/Termpost/?TermPostId=36739">NS-ISO 1087:2019</a></p>
+<p>Kilde til definisjon: <a href="https://standard.no/no/Nettbutikk/produktkatalogen/Produktpresentasjon/?ProductID=1131185">NS-ISO 1087:2019</a></p>
 </div>
 <div class="paragraph">
 <p>Merknad: Gjennom begrepsharmoniseringen skaper vi en felles definisjon og felles term for der det opprinnelig var to eller flere ulike definisjoner og/eller to eller flere ulike termer. Mindre ulikheter som gjenstår, f.eks. uvesentlige kjennetegn, kan reduseres ved at de flyttes til et merknadsfelt, slik at definisjonene er helt like.</p>
@@ -811,7 +819,7 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 <p>Denne standarden beskriver en prosessmodell for harmonisering eller differensiering av begreper.</p>
 </div>
 <div class="paragraph">
-<p>Standarden forutsetter at omfanget er avgrenset og begrepene er definert og beskrevet i henhold til <a href="https://www.digdir.no/digitale-felleslosninger/forvaltningsstandard-begrepsbeskrivelser/1649"><em>Forvaltningsstandard for begrepsbeskrivelser</em></a>. Dersom ikke det er gjort, bør dere gå til forarbeid (<a href="#vedlegg-c">vedlegg C</a>, ikke-normativt).</p>
+<p>Standarden forutsetter at omfanget er avgrenset og begrepene er definert og beskrevet i henhold til <a href="https://data.norge.no/specification/skos-ap-no-begrep"><em>Forvaltningsstandard for begrepsbeskrivelser (SKOS-AP-NO)</em></a>. Dersom ikke det er gjort, bør dere gå til forarbeid (<a href="#vedlegg-c">vedlegg C</a>, ikke-normativt).</p>
 </div>
 <div class="paragraph">
 <p>Dette kapitlet beskriver hva dere skal oppnå med de ulike stegene. Dere finner utdypende beskrivelser av hvordan dere gjennomfører hvert steg i <a href="#vedlegg-a">vedlegg A</a> (ikke-normativt).</p>
@@ -963,7 +971,7 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 <dl>
 <dt class="hdlist1">Punkt 2</dt>
 <dd>
-<p>Nyttige kilder til definisjoner og termer: <a href="https://lovdata.no/">Lovdata</a>, <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a>, <a href="https://snl.no/">Store norske leksikon</a>, <a href="https://www.standard.no/toppvalg/termbasen/">Termbasen SNORRE</a>, <a href="https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen">Termportalen</a> og <a href="https://nfm.sdlproducts.com/multiterm">Utenriksdepartementets EU-base</a> (sistnevnte krever pålogging: brukernavn: guest passord: guest). <a href="https://ordbok.uib.no/"><em>Bokmålsordboka</em>, <em>Nynorskordboka</em></a> og <a href="https://www.naob.no/"><em>Det Norske Akademis Ordbok</em></a> finnes også, men disse inneholder hovedsakelig begreper fra allmennspråket.</p>
+<p>Nyttige kilder til definisjoner og termer: <a href="https://lovdata.no/">Lovdata</a>, <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a>, <a href="https://snl.no/">Store norske leksikon</a>, <a href="https://termbasen.standard.no/">Termbasen</a>, <a href="https://termportalen.no/">Termportalen</a> og <a href="https://nfm.sdlproducts.com/multiterm">Utenriksdepartementets EU-base</a> (sistnevnte krever pålogging: brukernavn: guest passord: guest). <a href="https://ordbokene.no/"><em>Ordbøkene</em></a> og <a href="https://www.naob.no/"><em>Det Norske Akademis Ordbok</em></a> finnes også, men disse inneholder hovedsakelig begreper fra allmennspråket.</p>
 </dd>
 </dl>
 </div>
@@ -971,17 +979,17 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 <p>Det finnes også en rekke sektorspesifikke kilder. En oversikt finnes på <a href="https://www.sprakradet.no/Sprakarbeid/Terminologi/termlister-og-termbaser/">Språkrådets nettsider</a>.</p>
 </div>
 <div class="paragraph">
-<p>Det finnes også internasjonale kilder, f.eks. EUs termbase <a href="https://iate.europa.eu/home">IATE</a> og <a href="https://www.iso.org/obp/ui/">ISO Online Browsing Platform (OBP)</a> eller sektorspesifikke baser som f.eks. <a href="http://www.electropedia.org/">Electropedia</a> for elektroteknikk og <a href="https://ec.europa.eu/home-affairs/what-we-do/networks/european_migration_network/glossary_search_en">EMN Glossary</a> for migrasjon.</p>
+<p>Det finnes også internasjonale kilder, f.eks. EUs termbase <a href="https://iate.europa.eu/home">IATE</a> og <a href="https://www.iso.org/obp/ui/">ISO Online Browsing Platform (OBP)</a> eller sektorspesifikke baser som f.eks. <a href="http://www.electropedia.org/">Electropedia</a> for elektroteknikk og <a href="https://home-affairs.ec.europa.eu/networks/european-migration-network-emn/emn-asylum-and-migration-glossary_en">EMN Asylum and Migration Glossary</a> for asyl og migrasjon.</p>
 </div>
 <div class="dlist">
 <dl>
 <dt class="hdlist1">Punkt 3</dt>
 <dd>
-<p>Dere kan bruke et vanlig hvitt ark eller et program til å tegne begrepsdiagram. <a href="https://www.digdir.no/digitale-felleslosninger/termlosen/1648"><em>Termlosen</em></a> gir en innføring i begrepsdiagram og inndelingskriterium.</p>
+<p>Dere kan bruke et vanlig hvitt ark eller et program til å tegne begrepsdiagram. <a href="https://data.norge.no/specification/termlosen"><em>Termlosen</em></a> gir en innføring i begrepsdiagram og inndelingskriterium.</p>
 </dd>
 <dt class="hdlist1">Punkt 4</dt>
 <dd>
-<p>Se også her <a href="https://www.digdir.no/digitale-felleslosninger/termlosen/1648"><em>Termlosen</em></a>.</p>
+<p>Se også her <a href="https://data.norge.no/specification/termlosen"><em>Termlosen</em></a>.</p>
 </dd>
 </dl>
 </div>
@@ -1116,7 +1124,7 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 <dl>
 <dt class="hdlist1">Punkt 2</dt>
 <dd>
-<p>For statlige virksomheter finnes <a href="https://dfo.no/fagomrader/utredningsinstruksen"><em>Utredningsinstruksen</em></a> som gir føringer for analyse av administrative og økonomiske konsekvenser.</p>
+<p>For statlige virksomheter finnes <a href="https://dfo.no/fagomrader/utredning-og-analyse-av-statlige-tiltak"><em>Utredningsinstruksen</em></a> som gir føringer for analyse av administrative og økonomiske konsekvenser.</p>
 </dd>
 <dt class="hdlist1">Punkt 3</dt>
 <dd>
@@ -1183,7 +1191,7 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 <p>Deltakerne utformer definisjoner og fastsette termer for nye, felles begreper.</p>
 </li>
 <li>
-<p>Deltakerne registrerer og tilgjengeliggjør begrepene som virksomhetene blir enige om å harmonisere i en termbase, f.eks. <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a> eller <a href="https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen">Termportalen</a>.</p>
+<p>Deltakerne registrerer og tilgjengeliggjør begrepene som virksomhetene blir enige om å harmonisere i en termbase, f.eks. <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a> eller <a href="https://www.termportalen.no/">Termportalen</a>.</p>
 </li>
 </ol>
 </div>
@@ -1194,7 +1202,7 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 <dl>
 <dt class="hdlist1">Punkt 3 og 4</dt>
 <dd>
-<p>Det finnes en metode for terminologisk arbeid, se <a href="https://www.digdir.no/digitale-felleslosninger/termlosen/1648"><em>Termlosen</em></a>.</p>
+<p>Det finnes en metode for terminologisk arbeid, se <a href="https://data.norge.no/specification/termlosen"><em>Termlosen</em></a>.</p>
 </dd>
 </dl>
 </div>
@@ -1387,7 +1395,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 </tbody>
 </table>
 <div class="paragraph">
-<p>Steg 1.2 Virksomhetene undersøker andre kilder (<a href="https://snl.no/">Store norske leksikon</a>, <a href="https://ordbok.uib.no/">ordbøker</a>, <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a>, <a href="https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen">Termportalen</a> og <a href="https://www.standard.no/termbasen/">termbasen SNORRE</a>) og finner en definisjon fra Store norske leksikon:</p>
+<p>Steg 1.2 Virksomhetene undersøker andre kilder (<a href="https://snl.no/">Store norske leksikon</a>, <a href="https://ordbok.uib.no/">Ordbøkene</a>, <a href="https://data.norge.no/concepts">begrepsdelen av Felles dataktalog</a>, <a href="https://termportalen.no">Termportalen</a> og <a href="https://termbasen.standard.no/">Termbasen</a>) og finner en definisjon fra Store norske leksikon:</p>
 </div>
 <table class="tableblock frame-all grid-all stripes-odd stretch">
 <colgroup>
@@ -1618,7 +1626,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 </tbody>
 </table>
 <div class="paragraph">
-<p>Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer og definisjoner: <a href="https://lovdata.no/">Lovdata</a>, <a href="https://www.standard.no/termbasen/">termbasen SNORRE</a>, <a href="https://snl.no/">Store norske leksikon</a>, <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a> og <a href="https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen">Termportalen</a>.</p>
+<p>Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer og definisjoner: <a href="https://lovdata.no/">Lovdata</a>, <a href="https://termbasen.standard.no/">Termbasen</a>, <a href="https://snl.no/">Store norske leksikon</a>, <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a> og <a href="https://termportalen.no">Termportalen</a>.</p>
 </div>
 <div class="paragraph">
 <p>I termbasen SNORRE finner virksomhetene følgende definisjoner som virksomhetene ønsker å ta med seg videre i arbeidet:</p>
@@ -1876,7 +1884,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 <p><strong>Steg 5: Enighet om forvaltningsmodell</strong></p>
 </div>
 <div class="paragraph">
-<p>Virksomhetene blir enige om at Virksomhet B får ansvaret for å forvalte det nye, felles begrepssystemet. Virksomhet B registrerer begrepene i <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a> og forplikter seg til å ta kontakt med virksomhet A ved eventuelle, framtidige begrepsendringer.</p>
+<p>Virksomhetene blir enige om at Virksomhet B får ansvaret for å forvalte det nye, felles begrepssystemet. Virksomhet B registrerer begrepene i <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a> og forplikter seg til å ta kontakt med virksomhet A ved eventuelle, framtidige begrepsendringer.</p>
 </div>
 <div class="paragraph">
 <p><strong>Slutt</strong>: Begrepene er harmoniserte.</p>
@@ -1949,7 +1957,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 </tbody>
 </table>
 <div class="paragraph">
-<p>Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: <a href="https://lovdata.no/">Lovdata</a>, <a href="https://snl.no/">Store norske leksikon</a>, <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a>, <a href="https://oda.uib.no/app?ma=term&amp;mg=uhr">UHRs termbase</a>, nettsider i UH-sektoren, <a href="https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen">Termportalen</a>, ordbøker (<a href="https://ordbok.uib.no/">Bokmålsordboka, Nynorskordboka</a>, <a href="https://naob.no/">NAOB</a>).</p>
+<p>Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: <a href="https://lovdata.no/">Lovdata</a>, <a href="https://snl.no/">Store norske leksikon</a>, <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a>, <a href="https://oda.uib.no/app?ma=term&amp;mg=uhr">UHRs termbase</a>, <a href="https://termportalen.no/">Termportalen</a>, <a href="https://ordbok.uib.no/">Ordbøkene</a>, <a href="https://naob.no/">NAOB</a>.</p>
 </div>
 <div class="paragraph">
 <p>Virksomhetene finner ingen andre definisjoner av ‘gjennomføringsgrad’.</p>
@@ -2053,7 +2061,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 <p><strong>Steg 4: Begrepsdifferensiering</strong></p>
 </div>
 <div class="paragraph">
-<p>Begrepene fra de to virksomhetene blir ført opp i samme termbase: <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a>.</p>
+<p>Begrepene fra de to virksomhetene blir ført opp i samme termbase: <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a>.</p>
 </div>
 <div class="paragraph">
 <p>Steg 4.1 Endring i definisjon: Begge virksomhetene justerer ordlyden uten at de innebærer endringer i begrepsinnholdet, se under.</p>
@@ -2092,7 +2100,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 <p>Steg 4.4 Virksomhetene vurderer at det ikke er nødvendig å bruke ‘fagområde’ eller ‘bruksområde’ for å skille mellom begrepene i termbasen de benytter.</p>
 </div>
 <div class="paragraph">
-<p>Steg 4.5 Det blir lagt inn en <em>se også</em>-relasjon mellom begrepene i <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a>.</p>
+<p>Steg 4.5 Det blir lagt inn en <em>se også</em>-relasjon mellom begrepene i <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a>.</p>
 </div>
 <div class="paragraph">
 <p><strong>Steg 5: Enighet om forvaltningsmodell</strong></p>
@@ -2165,7 +2173,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 </tbody>
 </table>
 <div class="paragraph">
-<p>Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: <a href="https://lovdata.no/">Lovdata</a>, <a href="https://snl.no/">Store norske leksikon</a>, <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a>, <a href="https://oda.uib.no/app?ma=term&amp;mg=uhr">UHRs termbase</a>, nettsider i UH-sektoren, <a href="https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen">Termportalen</a>, ordbøker (<a href="https://ordbok.uib.no/">Bokmålsordboka, Nynorskordboka</a>, <a href="https://naob.no/">NAOB</a>).</p>
+<p>Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: <a href="https://lovdata.no/">Lovdata</a>, <a href="https://snl.no/">Store norske leksikon</a>, <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a>, <a href="https://oda.uib.no/app?ma=term&amp;mg=uhr">UHRs termbase</a>, <a href="https://termportalen.no/">Termportalen</a>, <a href="https://ordbok.uib.no/">Ordbøkene</a>, <a href="https://naob.no/">NAOB</a>.</p>
 </div>
 <div class="paragraph">
 <p>I NAOB finner de følgende definisjon:</p>
@@ -2362,7 +2370,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 <p><strong>Steg 4: Begrepsdifferensiering</strong></p>
 </div>
 <div class="paragraph">
-<p>Begrepene blir registrert i samme termbase, i dette tilfellet <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a>.</p>
+<p>Begrepene blir registrert i samme termbase, i dette tilfellet <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a>.</p>
 </div>
 <div class="paragraph">
 <p>Steg 4.1 Endring i definisjon: Virksomhetene vurderer at det ikke er mulig.</p>
@@ -2371,7 +2379,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 <p>Steg 4.2 Endring i term: Virksomhetene vurderer at det ikke er mulig.</p>
 </div>
 <div class="paragraph">
-<p>Steg 4.3 Endring i merknad i definisjon: Virksomhetene ønsker å tydeliggjøre avviket mellom begrepene i merknadsfeltet i <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a> på følgende måte:</p>
+<p>Steg 4.3 Endring i merknad i definisjon: Virksomhetene ønsker å tydeliggjøre avviket mellom begrepene i merknadsfeltet i <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a> på følgende måte:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -2393,7 +2401,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 <p>Steg 4.4 Virksomhetene vurderer at det ikke er nødvendig å bruke ‘fagområde’ eller ‘bruksområde’ for å skille mellom begrepene.</p>
 </div>
 <div class="paragraph">
-<p>Steg 4.5 Det blir lagt inn en <em>se også</em>-begrepsrelasjon mellom begrepene i <a href="https://fellesdatakatalog.digdir.no/concepts">begrepskatalogen</a>.</p>
+<p>Steg 4.5 Det blir lagt inn en <em>se også</em>-begrepsrelasjon mellom begrepene i <a href="https://data.norge.no/concepts">begrepsdelen av Felles datakatalog</a>.</p>
 </div>
 <div class="paragraph">
 <p>Virksomhetene tar kontakt med UHRs termbase for å orientere om beslutningen slik at termbasen kan inneholde de samme opplysningene.</p>
@@ -2674,7 +2682,7 @@ Eksempel på begreper: ‘studiestart’, ‘studieår’, ‘høstsemester’, 
 <p><a href="https://www.digdir.no/digitalisering-og-samordning/begrepsanalyse-og-definisjonsarbeid/1483"><em>Referansekatalogen</em></a> inneholder relevante standarder for begrepsanalyse og definisjonsarbeid, inkl. <em>Termlosen</em>.</p>
 </div>
 <div class="paragraph">
-<p><a href="https://www.standard.no/termbasen/">Termbasen SNORRE</a> inneholder en rekke definisjoner av sentrale begreper i terminologi og terminologiarbeid.</p>
+<p><a href="https://termbasen.standard.no/">Termbasen til Standard Norge</a> inneholder en rekke definisjoner av sentrale begreper i terminologi og terminologiarbeid.</p>
 </div>
 <div class="paragraph">
 <p>Begrepene kan dokumenteres ved hjelp av f.eks. et tekstdokument, regneark, informasjonsmodell eller en begrepsmodell.</p>
@@ -2686,6 +2694,12 @@ Eksempel på begreper: ‘studiestart’, ‘studieår’, ‘høstsemester’, 
 <div class="sect1">
 <h2 id="vedlegg-d"><a class="anchor" href="#vedlegg-d"></a>Vedlegg D (ikke-normativt) - Viktigste endringer fra versjon 1 til denne versjon av standarden</h2>
 <div class="sectionbody">
+<div class="sect2">
+<h3 id="_endringer_fra_versjon_2_0_til_2_0_x"><a class="anchor" href="#_endringer_fra_versjon_2_0_til_2_0_x"></a>Endringer fra versjon 2.0 til 2.0.x</h3>
+<div class="paragraph">
+<p>Det er kun redaksjonelle endringer fra versjon 2.0 til 2.0.x, som ikke beskrives her i vedlegget. Med redaksjonelle endringer menes bl.a. endringer i formatering/strukturering eller justeringer i tekst/tegninger/tabeller/eksempler som ikke endrer kravene i standarden. <a href="mailto:informasjonsforvaltning@digdir.no">Ta kontakt med Digitaliseringsdirektoratet</a> for mer informasjon om de redaksjonelle endringene.</p>
+</div>
+</div>
 <div class="sect2">
 <h3 id="_endringer_fra_versjon_1_0_til_2_0"><a class="anchor" href="#_endringer_fra_versjon_1_0_til_2_0"></a>Endringer fra versjon 1.0 til 2.0</h3>
 <div class="paragraph">
@@ -2710,12 +2724,6 @@ Eksempel på begreper: ‘studiestart’, ‘studieår’, ‘høstsemester’, 
 </li>
 </ul>
 </div>
-</div>
-<div class="sect2">
-<h3 id="_endringer_fra_versjon_2_0_til_2_0_x"><a class="anchor" href="#_endringer_fra_versjon_2_0_til_2_0_x"></a>Endringer fra versjon 2.0 til 2.0.x</h3>
-<div class="paragraph">
-<p>Det er kun redaksjonelle endringer fra versjon 2.0 til 2.0.x, som ikke beskrives her i vedlegget. Med redaksjonelle endringer menes bl.a. endringer i formatering/strukturering eller justeringer i tekst/tegninger/tabeller/eksempler som ikke endrer kravene i standarden. <a href="mailto:informasjonsforvaltning@digdir.no">Ta kontakt med Digitaliseringsdirektoratet</a> for mer informasjon om de redaksjonelle endringene.</p>
-</div>
 <!-- Google Analytics -->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -2733,7 +2741,7 @@ ga('send', 'pageview');
 </div>
 <div id="footer">
 <div id="footer-text">
-Sist oppdatert 2022-09-22 11:09:18 UTC
+Sist oppdatert 2023-02-20 08:34:42 UTC
 </div>
 </div>
 </body>

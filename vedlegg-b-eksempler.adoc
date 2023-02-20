@@ -47,7 +47,7 @@ Virksomhet B:
 |kilde|Lov om kulturminner
 |===
 
-Steg 1.2 Virksomhetene undersøker andre kilder (https://snl.no/[Store norske leksikon], https://ordbok.uib.no/[ordbøker], https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen], https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen] og https://www.standard.no/termbasen/[termbasen SNORRE]) og finner en definisjon fra Store norske leksikon:
+Steg 1.2 Virksomhetene undersøker andre kilder (https://snl.no/[Store norske leksikon], https://ordbok.uib.no/[Ordbøkene], https://data.norge.no/concepts[begrepsdelen av Felles dataktalog], https://termportalen.no[Termportalen] og https://termbasen.standard.no/[Termbasen]) og finner en definisjon fra Store norske leksikon:
 
 [cols="10s,90d"]
 |===
@@ -148,7 +148,7 @@ Virksomhet B
 |_overvann_|vann fra naturlig nedbør som ikke har blitt forurenset ved bruk|egendefinert
 |===
 
-Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer og definisjoner: https://lovdata.no/[Lovdata], https://www.standard.no/termbasen/[termbasen SNORRE], https://snl.no/[Store norske leksikon], https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen] og https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen].
+Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer og definisjoner: https://lovdata.no/[Lovdata], https://termbasen.standard.no/[Termbasen], https://snl.no/[Store norske leksikon], https://data.norge.no/concepts[begrepsdelen av Felles datakatalog] og https://termportalen.no[Termportalen].
 
 I termbasen SNORRE finner virksomhetene følgende definisjoner som virksomhetene ønsker å ta med seg videre i arbeidet:
 
@@ -256,7 +256,7 @@ Virksomhetene melder fra til ansvarlige komiteer for standardene om de nye defin
 
 *Steg 5: Enighet om forvaltningsmodell*
 
-Virksomhetene blir enige om at Virksomhet B får ansvaret for å forvalte det nye, felles begrepssystemet. Virksomhet B registrerer begrepene i https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen] og forplikter seg til å ta kontakt med virksomhet A ved eventuelle, framtidige begrepsendringer.
+Virksomhetene blir enige om at Virksomhet B får ansvaret for å forvalte det nye, felles begrepssystemet. Virksomhet B registrerer begrepene i https://data.norge.no/concepts[begrepsdelen av Felles datakatalog] og forplikter seg til å ta kontakt med virksomhet A ved eventuelle, framtidige begrepsendringer.
 
 *Slutt*: Begrepene er harmoniserte.
 
@@ -290,7 +290,7 @@ Virksomhet B:
 |kilde|egendefinert
 |===
 
-Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: https://lovdata.no/[Lovdata], https://snl.no/[Store norske leksikon], https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen], https://oda.uib.no/app?ma=term&mg=uhr[UHRs termbase], nettsider i UH-sektoren, https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen], ordbøker (https://ordbok.uib.no/[Bokmålsordboka, Nynorskordboka], https://naob.no/[NAOB]).
+Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: https://lovdata.no/[Lovdata], https://snl.no/[Store norske leksikon], https://data.norge.no/concepts[begrepsdelen av Felles datakatalog], https://oda.uib.no/app?ma=term&mg=uhr[UHRs termbase], https://termportalen.no/[Termportalen], https://ordbok.uib.no/[Ordbøkene], https://naob.no/[NAOB].
 
 Virksomhetene finner ingen andre definisjoner av ‘gjennomføringsgrad’.
 
@@ -342,7 +342,7 @@ Begrepene kan ikke harmoniseres. Begrepene differensieres ved at forskjellene i 
 
 *Steg 4: Begrepsdifferensiering*
 
-Begrepene fra de to virksomhetene blir ført opp i samme termbase: https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen].
+Begrepene fra de to virksomhetene blir ført opp i samme termbase: https://data.norge.no/concepts[begrepsdelen av Felles datakatalog].
 
 Steg 4.1 Endring i definisjon: Begge virksomhetene justerer ordlyden uten at de innebærer endringer i begrepsinnholdet, se under.
 
@@ -359,7 +359,7 @@ Steg 4.3 Virksomhetene vurderer at det ikke er nødvendig å legge til informasj
 
 Steg 4.4 Virksomhetene vurderer at det ikke er nødvendig å bruke ‘fagområde’ eller ‘bruksområde’ for å skille mellom begrepene i termbasen de benytter.
 
-Steg 4.5 Det blir lagt inn en _se også_-relasjon mellom begrepene i https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen].
+Steg 4.5 Det blir lagt inn en _se også_-relasjon mellom begrepene i https://data.norge.no/concepts[begrepsdelen av Felles datakatalog].
 
 *Steg 5: Enighet om forvaltningsmodell*
 
@@ -393,7 +393,7 @@ Virksomhet B:
 |kilde|forskrift
 |===
 
-Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: https://lovdata.no/[Lovdata], https://snl.no/[Store norske leksikon], https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen], https://oda.uib.no/app?ma=term&mg=uhr[UHRs termbase], nettsider i UH-sektoren, https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen], ordbøker (https://ordbok.uib.no/[Bokmålsordboka, Nynorskordboka], https://naob.no/[NAOB]).
+Steg 1.2 Virksomhetene sjekker andre kilder for relevante termer eller definisjoner: https://lovdata.no/[Lovdata], https://snl.no/[Store norske leksikon], https://data.norge.no/concepts[begrepsdelen av Felles datakatalog], https://oda.uib.no/app?ma=term&mg=uhr[UHRs termbase], https://termportalen.no/[Termportalen], https://ordbok.uib.no/[Ordbøkene], https://naob.no/[NAOB].
 
 I NAOB finner de følgende definisjon:
 [cols="10s,90"]
@@ -483,13 +483,13 @@ Begrepene kan ikke harmoniseres og bør derfor differensieres.
 
 *Steg 4: Begrepsdifferensiering*
 
-Begrepene blir registrert i samme termbase, i dette tilfellet https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen].
+Begrepene blir registrert i samme termbase, i dette tilfellet https://data.norge.no/concepts[begrepsdelen av Felles datakatalog].
 
 Steg 4.1 Endring i definisjon: Virksomhetene vurderer at det ikke er mulig.
 
 Steg 4.2 Endring i term: Virksomhetene vurderer at det ikke er mulig.
 
-Steg 4.3 Endring i merknad i definisjon: Virksomhetene ønsker å tydeliggjøre avviket mellom begrepene i merknadsfeltet i https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen] på følgende måte:
+Steg 4.3 Endring i merknad i definisjon: Virksomhetene ønsker å tydeliggjøre avviket mellom begrepene i merknadsfeltet i https://data.norge.no/concepts[begrepsdelen av Felles datakatalog] på følgende måte:
 
 * Merknadsfeltet til ‘heltidsstudent’ (virksomhet A): “Begrepet blir definert ulikt i virksomhet B”.
 * Merknadsfeltet til ‘deltidsstudent’ (virksomhet A): “Begrepet blir definert ulikt i virksomhet B”.
@@ -498,7 +498,7 @@ Steg 4.3 Endring i merknad i definisjon: Virksomhetene ønsker å tydeliggjøre 
 
 Steg 4.4 Virksomhetene vurderer at det ikke er nødvendig å bruke ‘fagområde’ eller ‘bruksområde’ for å skille mellom begrepene.
 
-Steg 4.5 Det blir lagt inn en _se også_-begrepsrelasjon mellom begrepene i https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen].
+Steg 4.5 Det blir lagt inn en _se også_-begrepsrelasjon mellom begrepene i https://data.norge.no/concepts[begrepsdelen av Felles datakatalog].
 
 Virksomhetene tar kontakt med UHRs termbase for å orientere om beslutningen slik at termbasen kan inneholde de samme opplysningene.
 
