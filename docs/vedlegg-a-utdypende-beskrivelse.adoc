@@ -26,17 +26,17 @@ For å identifisere likhetene og ulikhetene mellom begrepene som skal harmoniser
 
 ==== Tips
 Punkt 2::
-Nyttige kilder til definisjoner og termer: https://lovdata.no/[Lovdata], https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen], https://snl.no/[Store norske leksikon], https://www.standard.no/toppvalg/termbasen/[Termbasen SNORRE], https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen] og https://nfm.sdlproducts.com/multiterm[Utenriksdepartementets EU-base] (sistnevnte krever pålogging: brukernavn: guest passord: guest). https://ordbok.uib.no/[_Bokmålsordboka_, _Nynorskordboka_] og https://www.naob.no/[_Det Norske Akademis Ordbok_] finnes også, men disse inneholder hovedsakelig begreper fra allmennspråket.
+Nyttige kilder til definisjoner og termer: https://lovdata.no/[Lovdata], https://data.norge.no/concepts[begrepsdelen av Felles datakatalog], https://snl.no/[Store norske leksikon], https://termbasen.standard.no/[Termbasen], https://termportalen.no/[Termportalen] og https://nfm.sdlproducts.com/multiterm[Utenriksdepartementets EU-base] (sistnevnte krever pålogging: brukernavn: guest passord: guest). https://ordbokene.no/[_Ordbøkene_] og https://www.naob.no/[_Det Norske Akademis Ordbok_] finnes også, men disse inneholder hovedsakelig begreper fra allmennspråket.
 
 Det finnes også en rekke sektorspesifikke kilder. En oversikt finnes på https://www.sprakradet.no/Sprakarbeid/Terminologi/termlister-og-termbaser/[Språkrådets nettsider].
 
-Det finnes også internasjonale kilder, f.eks. EUs termbase https://iate.europa.eu/home[IATE] og https://www.iso.org/obp/ui/[ISO Online Browsing Platform (OBP)] eller sektorspesifikke baser som f.eks. http://www.electropedia.org/[Electropedia] for elektroteknikk og https://ec.europa.eu/home-affairs/what-we-do/networks/european_migration_network/glossary_search_en[EMN Glossary] for migrasjon.
+Det finnes også internasjonale kilder, f.eks. EUs termbase https://iate.europa.eu/home[IATE] og https://www.iso.org/obp/ui/[ISO Online Browsing Platform (OBP)] eller sektorspesifikke baser som f.eks. http://www.electropedia.org/[Electropedia] for elektroteknikk og https://home-affairs.ec.europa.eu/networks/european-migration-network-emn/emn-asylum-and-migration-glossary_en[EMN Asylum and Migration Glossary] for asyl og migrasjon.
 
 Punkt 3::
- Dere kan bruke et vanlig hvitt ark eller et program til å tegne begrepsdiagram. https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_] gir en innføring i begrepsdiagram og inndelingskriterium.
+ Dere kan bruke et vanlig hvitt ark eller et program til å tegne begrepsdiagram. https://data.norge.no/specification/termlosen[_Termlosen_] gir en innføring i begrepsdiagram og inndelingskriterium.
 
 Punkt 4::
- Se også her https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_].
+ Se også her https://data.norge.no/specification/termlosen[_Termlosen_].
 
 
 === Steg 2: Valg mellom begrepsharmonisering og begrepsdifferensiering [[Steg2]]
@@ -92,7 +92,7 @@ Når det dreier seg om et sett av begreper, kan utfallet være en kombinasjon av
 
 Punkt 2::
 
-For statlige virksomheter finnes https://dfo.no/fagomrader/utredningsinstruksen[_Utredningsinstruksen_] som gir føringer for analyse av administrative og økonomiske konsekvenser.
+For statlige virksomheter finnes https://dfo.no/fagomrader/utredning-og-analyse-av-statlige-tiltak[_Utredningsinstruksen_] som gir føringer for analyse av administrative og økonomiske konsekvenser.
 
 Punkt 3::
 
@@ -125,11 +125,11 @@ For å sørge for at deltakerne bruker identiske begreper.
 
 4. Deltakerne utformer definisjoner og fastsette termer for nye, felles begreper.
 
-5. Deltakerne registrerer og tilgjengeliggjør begrepene som virksomhetene blir enige om å harmonisere i en termbase, f.eks. https://fellesdatakatalog.digdir.no/concepts[begrepskatalogen] eller https://www.uib.no/ub/fagressurser/spesialsamlingene/121707/termportalen[Termportalen].
+5. Deltakerne registrerer og tilgjengeliggjør begrepene som virksomhetene blir enige om å harmonisere i en termbase, f.eks. https://data.norge.no/concepts[begrepsdelen av Felles datakatalog] eller https://www.termportalen.no/[Termportalen].
 
 ==== Tips
 
-Punkt 3 og 4:: Det finnes en metode for terminologisk arbeid, se https://www.digdir.no/digitale-felleslosninger/termlosen/1648[_Termlosen_].
+Punkt 3 og 4:: Det finnes en metode for terminologisk arbeid, se https://data.norge.no/specification/termlosen[_Termlosen_].
 
 Om deltakerne blir enige om nye, felles begreper som avviker fra standarder, bør begrepsansvarlig (se <<Steg5, steg 5>>) tar kontakt med ansvarlig organ (f.eks. https://www.digdir.no/digitalisering-og-samordning/arkitektur-og-standardiseringsradet/1473[Sekretariatet for Arkitektur- og standardiseringsrådet], https://www.standard.no/[Standard Norge], https://www.nek.no/[Norsk Elektroteknisk Komité (NEK)] eller https://www.nkom.no/[Nasjonal Kommunikasjonsmyndighet (Nkom)]) for å informere om kartleggingen de har gjort, resultatet av den og nytten av endre standarden. Da kan det være mulig å ta hensyn til de nye, felles begrepene ved neste revisjon av den aktuelle standarden.
 
