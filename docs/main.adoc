@@ -1,23 +1,28 @@
 include::locale/attributes.adoc[]
 
-= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering - Versjon 2.0.1
+= Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering
+Digitaliseringsdirektoratet (Digdir) / The Norwegian Digitalisation Agency
 :description: Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering
 :doctype: book
 :docinfo:
 :icons: font
 :toc: left
+ifdef::backend-pdf[:toc: macro]
 :toc-title: Innholdsfortegnelse
 :toclevels: 4
 :sectanchors:
 :table-stripes: odd
 :imagesdir: images
-:title-logo-image: image:digitaliseringsdirektoratet.png[pdfwidth=30vw]
+:title-logo-image: image:Digdir.png[pdfwidth=30vw]
 
-image::digitaliseringsdirektoratet.png[width=50%, pdfwidth=30vw]
+image::Digdir.png[width=50%, pdfwidth=30vw, link=https://digdir.no/]
 
+*Status*: Gjeldende +
+*Versjon*: 2.0.2 + 
 *Publisert*: 2020-05-08 (v. 2.0) +
-*Oppdatert*: 2020-07-01 (v. 2.0.1) +
-*Status*: Gjeldende
+*Oppdatert*: 2023-02-20 (v. 2.0.2) +
+*Gjeldende versjon*: https://data.norge.no/specification/forvaltningsstandard-begrepskoordinering + 
+*Redaktørens utkast*: https://informasjonsforvaltning.github.io/forvaltningsstandard-begrepskoordinering 
 
 // WARNING: under publisering (små justeringer kan komme).
 
@@ -33,6 +38,8 @@ NOTE: *Innmelding av feil og mangler:* +
 Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn på https://github.com/Informasjonsforvaltning/forvaltningsstandard-begrepskoordinering/issues[Github Issues]. Dersom du ikke allerede har bruker på Github kan du opprette bruker gratis.
 
 // :leveloffset: +1
+
+toc::[]
 
 // Innhold her.
 

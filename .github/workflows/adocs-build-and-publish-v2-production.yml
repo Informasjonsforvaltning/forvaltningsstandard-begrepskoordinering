@@ -1,0 +1,51 @@
+name: Build adocs and publish to production
+
+on:
+  push:
+    branches:
+      - v2
+    paths:
+      - docs/**
+  workflow_dispatch:
+
+jobs:
+  adoc_build:
+    runs-on: ubuntu-latest
+    name: asciidoctor build
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          ref: v2
+
+      - name: Build html
+        id: adocbuild
+        uses: tonynv/asciidoctor-action@master
+        with:
+          program: "asciidoctor -D docs -o index.html -a lang=nb docs/main.adoc"
+
+      - name: Build pdf
+        id: adocbuild_pdf
+        uses: tonynv/asciidoctor-action@master
+        with:
+          program: "asciidoctor-pdf -D docs -o files/forvaltningsstandard-begrepskoordinering.pdf -a lang=nb docs/main.adoc"
+        continue-on-error: true
+
+      - name: Upload files to static-rdf-server
+        uses: Informasjonsforvaltning/upload-files-to-static-rdf-server-action@v3.1.0
+        id: upload-files
+        with:
+          ontology-type: "specification"
+          ontology: "forvaltningsstandard-begrepskoordinering"
+          host: "https://data.norge.no"
+          api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY }}
+          files: |
+            docs/index.html text/html nb
+            docs/files/forvaltningsstandard-begrepskoordinering.pdf application/pdf nb files/forvaltningsstandard-begrepskoordinering.pdf
+            docs/images/Digdir.png image/png nb images/Digdir.png
+            docs/images/avlopsvann1.png image/png nb images/avlopsvann1.png
+            docs/images/avlopsvann2.png image/png nb images/avlopsvann2.png
+            docs/images/forarbeid.png image/png nb images/forarbeid.png
+            docs/images/heltidsstudent.png image/png nb images/heltidsstudent.png
+            docs/images/prosessmodell.png image/png nb images/prosessmodell.png

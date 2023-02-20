@@ -23,7 +23,7 @@ Eksempel: Skape felles, enhetlig rapportering og statistikk om studenttall i uni
 Eksempel: Opplysningen skal beskrive/angi antall heltidsstudenter og antall deltidsstudenter på ulike studieprogram og på ulike studiesteder samt gjennomføringsgraden deres.
 
 . Hvilken informasjon skal begrepene _ikke_ beskrive?
-Eksempel: Opplysningene skal gi ikke gi svar på hvor mange studenter som mottar studielån, hvor mange som har søkt på et studium og hvor mange som har permisjon fra studiene.
+Eksempel: Opplysningene skal ikke gi svar på hvor mange studenter som mottar studielån, hvor mange som har søkt på et studium og hvor mange som har permisjon fra studiene.
 
 . Finnes det tilgrensende fagområder som faller utenfor?
 Eksempel: Andre, relevante fagområder er søknad og opptak, studiestøtte, studentmobilitet, men disse skal ikke omfattes i prosjektet.
@@ -128,6 +128,6 @@ https://www.sprakradet.no/Sprakarbeid/Terminologi/[Språkrådets nettsider] gir 
 
 https://www.digdir.no/digitalisering-og-samordning/begrepsanalyse-og-definisjonsarbeid/1483[_Referansekatalogen_] inneholder relevante standarder for begrepsanalyse og definisjonsarbeid, inkl. _Termlosen_.
 
-https://www.standard.no/termbasen/[Termbasen SNORRE] inneholder en rekke definisjoner av sentrale begreper i terminologi og terminologiarbeid.
+https://termbasen.standard.no/[Termbasen til Standard Norge] inneholder en rekke definisjoner av sentrale begreper i terminologi og terminologiarbeid.
 
 Begrepene kan dokumenteres ved hjelp av f.eks. et tekstdokument, regneark, informasjonsmodell eller en begrepsmodell.
