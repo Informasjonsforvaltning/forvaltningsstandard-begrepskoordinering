@@ -2,7 +2,7 @@
 
 Denne standarden beskriver en prosessmodell for harmonisering eller differensiering av begreper.
 
-Standarden forutsetter at omfanget er avgrenset og begrepene er definert og beskrevet i henhold til https://www.digdir.no/digitale-felleslosninger/forvaltningsstandard-begrepsbeskrivelser/1649[_Forvaltningsstandard for begrepsbeskrivelser_]. Dersom ikke det er gjort, bør dere gå til forarbeid (<<vedlegg-c, vedlegg C>>, ikke-normativt).
+Standarden forutsetter at omfanget er avgrenset og begrepene er definert og beskrevet i henhold til https://data.norge.no/specification/skos-ap-no-begrep[_Forvaltningsstandard for begrepsbeskrivelser (SKOS-AP-NO)_]. Dersom ikke det er gjort, bør dere gå til forarbeid (<<vedlegg-c, vedlegg C>>, ikke-normativt).
 
 Dette kapitlet beskriver hva dere skal oppnå med de ulike stegene. Dere finner utdypende beskrivelser av hvordan dere gjennomfører hvert steg i <<vedlegg-a, vedlegg A>> (ikke-normativt).
 
