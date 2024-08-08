@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.18">
+<meta name="generator" content="Asciidoctor 2.0.23">
 <meta name="description" content="Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering">
 <meta name="author" content="Digitaliseringsdirektoratet (Digdir) / The Norwegian Digitalisation Agency">
 <title>Forvaltningsstandard for begrepsharmonisering og begrepsdifferensiering</title>
@@ -142,7 +142,7 @@ p a>code:hover{color:rgba(0,0,0,.9)}
 #content::before{content:none}
 #header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
 #header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
-#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+#header>h1:only-child{border-bottom:1px solid #dddddf;padding-bottom:8px}
 #header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:flex;flex-flow:row wrap}
 #header .details span:first-child{margin-left:-.125em}
 #header .details span.email a{color:rgba(0,0,0,.85)}
@@ -164,6 +164,7 @@ p a>code:hover{color:rgba(0,0,0,.9)}
 #toctitle{color:#7a2518;font-size:1.2em}
 @media screen and (min-width:768px){#toctitle{font-size:1.375em}
 body.toc2{padding-left:15em;padding-right:0}
+body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
 #toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
 #toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
 #toc.toc2>ul{font-size:.9em;margin-bottom:0}
@@ -210,13 +211,10 @@ table.tableblock.fit-content>caption.title{white-space:nowrap;width:0}
 .admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #dddddf;color:rgba(0,0,0,.6);word-wrap:anywhere}
 .admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
 .exampleblock>.content{border:1px solid #e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;border-radius:4px}
-.exampleblock>.content>:first-child{margin-top:0}
-.exampleblock>.content>:last-child{margin-bottom:0}
 .sidebarblock{border:1px solid #dbdbd6;margin-bottom:1.25em;padding:1.25em;background:#f3f3f2;border-radius:4px}
-.sidebarblock>:first-child{margin-top:0}
-.sidebarblock>:last-child{margin-bottom:0}
 .sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
-.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content>:first-child,.sidebarblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child,.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
 .literalblock pre,.listingblock>.content>pre{border-radius:4px;overflow-x:auto;padding:1em;font-size:.8125em}
 @media screen and (min-width:768px){.literalblock pre,.listingblock>.content>pre{font-size:.90625em}}
 @media screen and (min-width:1280px){.literalblock pre,.listingblock>.content>pre{font-size:1em}}
@@ -332,7 +330,7 @@ a.image{text-decoration:none;display:inline-block}
 a.image object{pointer-events:none}
 sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
 sup.footnote a,sup.footnoteref a{text-decoration:none}
-sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
+sup.footnote a:active,sup.footnoteref a:active,#footnotes .footnote a:first-of-type:active{text-decoration:underline}
 #footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
 #footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
 #footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
@@ -395,7 +393,7 @@ b.conum *{color:inherit!important}
 dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
 h1,h2,p,td.content,span.alt,summary{letter-spacing:-.01em}
 p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
-p,blockquote,dt,td.content,span.alt,summary{font-size:1.0625rem}
+p,blockquote,dt,td.content,td.hdlist1,span.alt,summary{font-size:1.0625rem}
 p{margin-bottom:1.25rem}
 .sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
 .exampleblock>.content{background:#fffef7;border-color:#e0e0dc;box-shadow:0 1px 4px #e0e0dc}
@@ -644,7 +642,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </div>
 </div>
 <div class="sect1">
-<h2 id="_forord"><a class="anchor" href="#_forord"></a>Forord</h2>
+<h2 id="_forord"><a class="link" href="#_forord">Forord</a></h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://www.digdir.no/digitalisering-og-samordning/referansekatalogen-it-standarder/1480"><em>Referansekatalogen</em></a> er en oversikt over obligatoriske og anbefalte IT-standarder i forvaltningen. Obligatoriske standarder skal følges av alle virksomheter. Anbefalte standarder skal følges dersom virksomhetene ikke har en god grunn til å la være å følge dem.</p>
@@ -661,13 +659,13 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </div>
 </div>
 <div class="sect1">
-<h2 id="_formål_omfang_og_avgrensinger"><a class="anchor" href="#_formål_omfang_og_avgrensinger"></a>Formål, omfang og avgrensinger</h2>
+<h2 id="_formål_omfang_og_avgrensinger"><a class="link" href="#_formål_omfang_og_avgrensinger">Formål, omfang og avgrensinger</a></h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Dette kapitlet er ikke-normativt.</p>
 </div>
 <div class="sect2">
-<h3 id="_bakgrunn"><a class="anchor" href="#_bakgrunn"></a>Bakgrunn</h3>
+<h3 id="_bakgrunn"><a class="link" href="#_bakgrunn">Bakgrunn</a></h3>
 <div class="paragraph">
 <p>Utveksling og gjenbruk av data og brukertjenester på tvers av virksomheter forutsetter en felles forståelse av begrepene. Utilsiktede eller unødvendige forskjeller mellom begrepsforståelse og begrepsbruk kan føre til at samme informasjon innhentes flere ganger eller at informasjonen i verste fall brukes feil. Opprydding i begrepsbruk internt i en virksomhet er også en viktig del av informasjonsforvaltningsarbeidet i virksomheten. Begreper bør derfor harmoniseres ved at utilsiktede eller unødvendige forskjeller fjernes eller reduseres, eller differensieres ved at forskjellene som ikke kan fjernes eller reduseres, blir gjort tydelige.</p>
 </div>
@@ -689,7 +687,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </div>
 </div>
 <div class="sect2">
-<h3 id="_formål"><a class="anchor" href="#_formål"></a>Formål</h3>
+<h3 id="_formål"><a class="link" href="#_formål">Formål</a></h3>
 <div class="paragraph">
 <p>Standarden skal bidra til en felles ramme for begrepsarbeid og bruk av termer i offentlig forvaltning. Standarden skal også bidra til konsistent språkbruk i virksomhetenes kommunikasjon med publikum.</p>
 </div>
@@ -698,7 +696,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </div>
 </div>
 <div class="sect2">
-<h3 id="_målgruppe"><a class="anchor" href="#_målgruppe"></a>Målgruppe</h3>
+<h3 id="_målgruppe"><a class="link" href="#_målgruppe">Målgruppe</a></h3>
 <div class="paragraph">
 <p>Standarden er først og fremst tiltenkt offentlig forvaltning, men den vil være nyttig for alle organisasjoner og virksomheter som arbeider med begreper og termer i forbindelse med informasjonsforvaltning, datadeling, klarspråk og kommunikasjon med publikum.</p>
 </div>
@@ -707,7 +705,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </div>
 </div>
 <div class="sect2">
-<h3 id="_avgrensninger"><a class="anchor" href="#_avgrensninger"></a>Avgrensninger</h3>
+<h3 id="_avgrensninger"><a class="link" href="#_avgrensninger">Avgrensninger</a></h3>
 <div class="paragraph">
 <p>Utgangspunktet for denne standarden er at begrepene som skal harmoniseres eller differensieres, er definerte. Som hjelp har vi i standardens informative del (<a href="#vedlegg-c">vedlegg C</a>) beskrevet forarbeid som bør gjennomføres før denne standarden skal tas i bruk.</p>
 </div>
@@ -715,7 +713,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </div>
 </div>
 <div class="sect1">
-<h2 id="_normative_referanser"><a class="anchor" href="#_normative_referanser"></a>Normative referanser</h2>
+<h2 id="_normative_referanser"><a class="link" href="#_normative_referanser">Normative referanser</a></h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Følgende referanser er normative og danner grunnlag for denne standarden:</p>
@@ -739,7 +737,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </div>
 </div>
 <div class="sect1">
-<h2 id="_termer_og_definisjoner"><a class="anchor" href="#_termer_og_definisjoner"></a>Termer og definisjoner</h2>
+<h2 id="_termer_og_definisjoner"><a class="link" href="#_termer_og_definisjoner">Termer og definisjoner</a></h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Dette kapitlet inneholder definisjon av noen av de sentrale begrepene som er brukt i prosessmodellen i denne standarden. Andre begreper som er brukt, kan du finne i <a href="https://termbasen.standard.no/">Termbasen</a> til Standard Norge.</p>
@@ -748,7 +746,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 <p>Notasjon som er brukt: Anbefalt term er ført opp i <strong>fet skrift</strong>, eventuell tillatt term i vanlig skrift og rett under anbefalt term, før definisjonen.</p>
 </div>
 <div class="sect2">
-<h3 id="_begrepskoordinering"><a class="anchor" href="#_begrepskoordinering"></a>begrepskoordinering <a id="begrepskoordinering"></a><a id="Begrepskoordinering"></a></h3>
+<h3 id="_begrepskoordinering"><a class="link" href="#_begrepskoordinering">begrepskoordinering <a id="begrepskoordinering"></a><a id="Begrepskoordinering"></a></a></h3>
 <div class="dlist">
 <dl>
 <dt class="hdlist1">begrepskoordinering</dt>
@@ -762,7 +760,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </div>
 </div>
 <div class="sect2">
-<h3 id="_begrepsharmonisering"><a class="anchor" href="#_begrepsharmonisering"></a>begrepsharmonisering <a id="begrepsharmonisering"></a><a id="Begrepsharmonisering"></a></h3>
+<h3 id="_begrepsharmonisering"><a class="link" href="#_begrepsharmonisering">begrepsharmonisering <a id="begrepsharmonisering"></a><a id="Begrepsharmonisering"></a></a></h3>
 <div class="dlist">
 <dl>
 <dt class="hdlist1">begrepsharmonisering</dt>
@@ -779,7 +777,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </div>
 </div>
 <div class="sect2">
-<h3 id="_begrepsdifferensiering"><a class="anchor" href="#_begrepsdifferensiering"></a>begrepsdifferensiering <a id="begrepsdifferensiering"></a><a id="Begrepsdifferensiering"></a></h3>
+<h3 id="_begrepsdifferensiering"><a class="link" href="#_begrepsdifferensiering">begrepsdifferensiering <a id="begrepsdifferensiering"></a><a id="Begrepsdifferensiering"></a></a></h3>
 <div class="dlist">
 <dl>
 <dt class="hdlist1">begrepsdifferensiering</dt>
@@ -796,7 +794,7 @@ Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn 
 </div>
 </div>
 <div class="sect2">
-<h3 id="_begrepsansvarlig"><a class="anchor" href="#_begrepsansvarlig"></a>begrepsansvarlig <a id="begrepsansvarlig"></a><a id="Begrepsansvarlig"></a></h3>
+<h3 id="_begrepsansvarlig"><a class="link" href="#_begrepsansvarlig">begrepsansvarlig <a id="begrepsansvarlig"></a><a id="Begrepsansvarlig"></a></a></h3>
 <div class="dlist">
 <dl>
 <dt class="hdlist1">begrepsansvarlig</dt>
@@ -813,7 +811,7 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect1">
-<h2 id="prosessmodell"><a class="anchor" href="#prosessmodell"></a>Prosessmodell for harmonisering eller differensiering av begreper</h2>
+<h2 id="prosessmodell"><a class="link" href="#prosessmodell">Prosessmodell for harmonisering eller differensiering av begreper</a></h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Denne standarden beskriver en prosessmodell for harmonisering eller differensiering av begreper.</p>
@@ -831,13 +829,13 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 <div class="title">Figur 1. Prosessmodell for begrepsharmonisering eller begrepsdifferensiering.</div>
 </div>
 <div class="sect2">
-<h3 id="steg1"><a class="anchor" href="#steg1"></a>Steg 1: Sammenstilling av begreper</h3>
+<h3 id="steg1"><a class="link" href="#steg1">Steg 1: Sammenstilling av begreper</a></h3>
 <div class="paragraph">
 <p>Målet er å finne likheter og forskjeller mellom begrepene ved å sammenstille begrepene som skal harmoniseres eller differensieres.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="steg2"><a class="anchor" href="#steg2"></a>Steg 2: Valg mellom begrepsharmonisering eller begrepsdifferensiering</h3>
+<h3 id="steg2"><a class="link" href="#steg2">Steg 2: Valg mellom begrepsharmonisering eller begrepsdifferensiering</a></h3>
 <div class="paragraph">
 <p>Målet er å velge et realistisk mål for et koordineringsarbeid, som er:</p>
 </div>
@@ -859,19 +857,19 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect2">
-<h3 id="steg3"><a class="anchor" href="#steg3"></a>Steg 3: Begrepsharmonisering</h3>
+<h3 id="steg3"><a class="link" href="#steg3">Steg 3: Begrepsharmonisering</a></h3>
 <div class="paragraph">
 <p>Målet er å komme fram til et eller flere felles begreper som alle involverte skal bruke, inkludert felles term.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="steg4"><a class="anchor" href="#steg4"></a>Steg 4: Begrepsdifferensiering</h3>
+<h3 id="steg4"><a class="link" href="#steg4">Steg 4: Begrepsdifferensiering</a></h3>
 <div class="paragraph">
 <p>Målet er å tydeliggjøre forskjeller mellom begreper som ikke kan harmoniseres.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="steg5"><a class="anchor" href="#steg5"></a>Steg 5: Enighet om forvaltningsmodell</h3>
+<h3 id="steg5"><a class="link" href="#steg5">Steg 5: Enighet om forvaltningsmodell</a></h3>
 <div class="paragraph">
 <p>Målet er å bli enige om en modell for å forvalte de harmoniserte eller differensierte begrepene.</p>
 </div>
@@ -879,21 +877,21 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect1">
-<h2 id="vedlegg-a"><a class="anchor" href="#vedlegg-a"></a>Vedlegg A (ikke-normativt) - utdypende beskrivelse av stegene i prosessmodell</h2>
+<h2 id="vedlegg-a"><a class="link" href="#vedlegg-a">Vedlegg A (ikke-normativt) - utdypende beskrivelse av stegene i prosessmodell</a></h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>I dette vedlegget utdypes stegene i <a href="#prosessmodell">prosessmodellen</a> (figur 1) i den normative delen av standarden.</p>
 </div>
 <div class="sect2">
-<h3 id="Steg1"><a class="anchor" href="#Steg1"></a>Steg 1: Sammenstilling av begreper</h3>
+<h3 id="Steg1"><a class="link" href="#Steg1">Steg 1: Sammenstilling av begreper</a></h3>
 <div class="sect3">
-<h4 id="_hvorfor"><a class="anchor" href="#_hvorfor"></a>Hvorfor</h4>
+<h4 id="_hvorfor"><a class="link" href="#_hvorfor">Hvorfor</a></h4>
 <div class="paragraph">
 <p>For å identifisere likhetene og ulikhetene mellom begrepene som skal harmoniseres eller differensieres, slik at det blir lettere å ta et realistisk valg i neste steg.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_forslag_til_framgangsmåte"><a class="anchor" href="#_forslag_til_framgangsmåte"></a>Forslag til framgangsmåte</h4>
+<h4 id="_forslag_til_framgangsmåte"><a class="link" href="#_forslag_til_framgangsmåte">Forslag til framgangsmåte</a></h4>
 <div class="olist arabic">
 <ol class="arabic">
 <li>
@@ -966,7 +964,7 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect3">
-<h4 id="_tips"><a class="anchor" href="#_tips"></a>Tips</h4>
+<h4 id="_tips"><a class="link" href="#_tips">Tips</a></h4>
 <div class="dlist">
 <dl>
 <dt class="hdlist1">Punkt 2</dt>
@@ -996,15 +994,15 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect2">
-<h3 id="Steg2"><a class="anchor" href="#Steg2"></a>Steg 2: Valg mellom begrepsharmonisering og begrepsdifferensiering</h3>
+<h3 id="Steg2"><a class="link" href="#Steg2">Steg 2: Valg mellom begrepsharmonisering og begrepsdifferensiering</a></h3>
 <div class="sect3">
-<h4 id="_hvorfor_2"><a class="anchor" href="#_hvorfor_2"></a>Hvorfor</h4>
+<h4 id="_hvorfor_2"><a class="link" href="#_hvorfor_2">Hvorfor</a></h4>
 <div class="paragraph">
 <p>For å foreta et realistisk valg ved å utrede mulighetene for begrepsharmonisering eller begrepsdifferensiering.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_forslag_til_framgangsmåte_2"><a class="anchor" href="#_forslag_til_framgangsmåte_2"></a>Forslag til framgangsmåte</h4>
+<h4 id="_forslag_til_framgangsmåte_2"><a class="link" href="#_forslag_til_framgangsmåte_2">Forslag til framgangsmåte</a></h4>
 <div class="paragraph">
 <p>Deltakerne foretar terminologiske og administrative vurderinger ved bl.a. å svare på noen spørsmål, og foretar et realistisk valg for det videre arbeidet.</p>
 </div>
@@ -1119,7 +1117,7 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect3">
-<h4 id="_tips_2"><a class="anchor" href="#_tips_2"></a>Tips</h4>
+<h4 id="_tips_2"><a class="link" href="#_tips_2">Tips</a></h4>
 <div class="dlist">
 <dl>
 <dt class="hdlist1">Punkt 2</dt>
@@ -1144,15 +1142,15 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect2">
-<h3 id="Steg3"><a class="anchor" href="#Steg3"></a>Steg 3: Begrepsharmonisering</h3>
+<h3 id="Steg3"><a class="link" href="#Steg3">Steg 3: Begrepsharmonisering</a></h3>
 <div class="sect3">
-<h4 id="_hvorfor_3"><a class="anchor" href="#_hvorfor_3"></a>Hvorfor</h4>
+<h4 id="_hvorfor_3"><a class="link" href="#_hvorfor_3">Hvorfor</a></h4>
 <div class="paragraph">
 <p>For å sørge for at deltakerne bruker identiske begreper.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_forslag_til_framgangsmåte_3"><a class="anchor" href="#_forslag_til_framgangsmåte_3"></a>Forslag til framgangsmåte</h4>
+<h4 id="_forslag_til_framgangsmåte_3"><a class="link" href="#_forslag_til_framgangsmåte_3">Forslag til framgangsmåte</a></h4>
 <div class="olist arabic">
 <ol class="arabic">
 <li>
@@ -1197,7 +1195,7 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect3">
-<h4 id="_tips_3"><a class="anchor" href="#_tips_3"></a>Tips</h4>
+<h4 id="_tips_3"><a class="link" href="#_tips_3">Tips</a></h4>
 <div class="dlist">
 <dl>
 <dt class="hdlist1">Punkt 3 og 4</dt>
@@ -1212,15 +1210,15 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect2">
-<h3 id="Steg4"><a class="anchor" href="#Steg4"></a>Steg 4: Begrepsdifferensiering</h3>
+<h3 id="Steg4"><a class="link" href="#Steg4">Steg 4: Begrepsdifferensiering</a></h3>
 <div class="sect3">
-<h4 id="_hvorfor_4"><a class="anchor" href="#_hvorfor_4"></a>Hvorfor</h4>
+<h4 id="_hvorfor_4"><a class="link" href="#_hvorfor_4">Hvorfor</a></h4>
 <div class="paragraph">
 <p>For å tydeliggjøre forskjeller mellom begrepene slik at de ikke brukes eller forståes som om de var identiske.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_forslag_til_framgangsmåte_4"><a class="anchor" href="#_forslag_til_framgangsmåte_4"></a>Forslag til framgangsmåte</h4>
+<h4 id="_forslag_til_framgangsmåte_4"><a class="link" href="#_forslag_til_framgangsmåte_4">Forslag til framgangsmåte</a></h4>
 <div class="paragraph">
 <p>Forskjeller i begrepene kan bli tydeliggjort på en eller flere av følgende måter:</p>
 </div>
@@ -1265,7 +1263,7 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect3">
-<h4 id="_tips_4"><a class="anchor" href="#_tips_4"></a>Tips</h4>
+<h4 id="_tips_4"><a class="link" href="#_tips_4">Tips</a></h4>
 <div class="dlist">
 <dl>
 <dt class="hdlist1">Punkt 1</dt>
@@ -1277,15 +1275,15 @@ organisasjon eller organisasjonsenhet som er ansvarlig for å forvalte beskrivel
 </div>
 </div>
 <div class="sect2">
-<h3 id="Steg5"><a class="anchor" href="#Steg5"></a>Steg 5: Enighet om forvaltningsmodell</h3>
+<h3 id="Steg5"><a class="link" href="#Steg5">Steg 5: Enighet om forvaltningsmodell</a></h3>
 <div class="sect3">
-<h4 id="_hvorfor_5"><a class="anchor" href="#_hvorfor_5"></a>Hvorfor</h4>
+<h4 id="_hvorfor_5"><a class="link" href="#_hvorfor_5">Hvorfor</a></h4>
 <div class="paragraph">
 <p>For å sikre at de nye begrepene blir forvaltet på en trygg og hensiktsmessig måte.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_forslag_til_framgangsmåte_5"><a class="anchor" href="#_forslag_til_framgangsmåte_5"></a>Forslag til framgangsmåte</h4>
+<h4 id="_forslag_til_framgangsmåte_5"><a class="link" href="#_forslag_til_framgangsmåte_5">Forslag til framgangsmåte</a></h4>
 <div class="olist arabic">
 <ol class="arabic">
 <li>
@@ -1303,10 +1301,10 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 </div>
 </div>
 <div class="sect1">
-<h2 id="vedlegg-b"><a class="anchor" href="#vedlegg-b"></a>Vedlegg B (ikke-normativt) - eksempler</h2>
+<h2 id="vedlegg-b"><a class="link" href="#vedlegg-b">Vedlegg B (ikke-normativt) - eksempler</a></h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_oversikt_over_eksempler"><a class="anchor" href="#_oversikt_over_eksempler"></a>Oversikt over eksempler</h3>
+<h3 id="_oversikt_over_eksempler"><a class="link" href="#_oversikt_over_eksempler">Oversikt over eksempler</a></h3>
 <div class="paragraph">
 <p>I dette vedlegget finner du noen eksempler som viser hvordan standarden kan brukes. Selv om det er to virksomheter involvert i alle eksemplene, kan situasjonene som beskrives, gjerne være mellom flere enn to virksomheter, eller mellom to eller flere enheter i samme virksomhet.</p>
 </div>
@@ -1327,9 +1325,9 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 </div>
 </div>
 <div class="sect2">
-<h3 id="_eksempler_på_begrepsharmonisering"><a class="anchor" href="#_eksempler_på_begrepsharmonisering"></a>Eksempler på begrepsharmonisering</h3>
+<h3 id="_eksempler_på_begrepsharmonisering"><a class="link" href="#_eksempler_på_begrepsharmonisering">Eksempler på begrepsharmonisering</a></h3>
 <div class="sect3">
-<h4 id="eksempel1"><a class="anchor" href="#eksempel1"></a>Eksempel: ett harmonisert begrep som resultat</h4>
+<h4 id="eksempel1"><a class="link" href="#eksempel1">Eksempel: ett harmonisert begrep som resultat</a></h4>
 <div class="paragraph">
 <p><strong>Hensikt</strong>: Eksemplet illustrerer hvordan to virksomheter harmoniserer begreper ved at den ene bruker den andres definisjon og term.</p>
 </div>
@@ -1545,7 +1543,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 </div>
 </div>
 <div class="sect3">
-<h4 id="eksempel2"><a class="anchor" href="#eksempel2"></a>Eksempel: et sett av harmoniserte begreper som resultat</h4>
+<h4 id="eksempel2"><a class="link" href="#eksempel2">Eksempel: et sett av harmoniserte begreper som resultat</a></h4>
 <div class="paragraph">
 <p><strong>Hensikt</strong>: Eksemplet illustrerer hvordan to virksomheter samarbeider om to ulike sett begreper, som blir harmonisert ved å etablere et nytt, felles begrepssystem.</p>
 </div>
@@ -1892,9 +1890,9 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 </div>
 </div>
 <div class="sect2">
-<h3 id="_eksempler_på_begrepsdifferensiering"><a class="anchor" href="#_eksempler_på_begrepsdifferensiering"></a>Eksempler på begrepsdifferensiering</h3>
+<h3 id="_eksempler_på_begrepsdifferensiering"><a class="link" href="#_eksempler_på_begrepsdifferensiering">Eksempler på begrepsdifferensiering</a></h3>
 <div class="sect3">
-<h4 id="eksempel3"><a class="anchor" href="#eksempel3"></a>Eksempel: to differensierte begreper som resultat</h4>
+<h4 id="eksempel3"><a class="link" href="#eksempel3">Eksempel: to differensierte begreper som resultat</a></h4>
 <div class="paragraph">
 <p><strong>Hensikt</strong>: Eksemplet illustrerer hvordan to virksomheter samarbeider rundt to tilsynelatende like begreper som ikke er mulig å harmonisere, og som til slutt blir differensiert.</p>
 </div>
@@ -2110,7 +2108,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 </div>
 </div>
 <div class="sect3">
-<h4 id="eksempel4"><a class="anchor" href="#eksempel4"></a>Eksempel: ønske om å harmonisere to tilsynelatende like begreper som resulterer i to sett av differensierte begreper</h4>
+<h4 id="eksempel4"><a class="link" href="#eksempel4">Eksempel: ønske om å harmonisere to tilsynelatende like begreper som resulterer i to sett av differensierte begreper</a></h4>
 <div class="paragraph">
 <p><strong>Hensikt</strong>: Eksemplet illustrerer hvordan to virksomheter samarbeider rundt to tilsynelatende like begreper som ikke er mulig å harmonisere, og som til slutt blir differensiert. Eksemplet illustrerer også at selv når utgangspunktet er et begrepspar, kan det være andre begreper som blir berørt.</p>
 </div>
@@ -2420,7 +2418,7 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 </div>
 </div>
 <div class="sect1">
-<h2 id="vedlegg-c"><a class="anchor" href="#vedlegg-c"></a>Vedlegg C (ikke-normativt) - Forarbeid før denne standarden brukes</h2>
+<h2 id="vedlegg-c"><a class="link" href="#vedlegg-c">Vedlegg C (ikke-normativt) - Forarbeid før denne standarden brukes</a></h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Denne standarden handler om harmonisering og differensiering av begreper. Standarden forutsetter at omfanget er avgrenset, og at begrepene som skal harmoniseres eller differensieres, er definerte.</p>
@@ -2435,15 +2433,15 @@ Deltakerne blir enige om varslingsrutiner ved eventuelle endringer eller behov f
 <div class="title">Figur 2. Prosessmodell for forarbeid.</div>
 </div>
 <div class="sect2">
-<h3 id="_avgrensing_av_omfang"><a class="anchor" href="#_avgrensing_av_omfang"></a>Avgrensing av omfang</h3>
+<h3 id="_avgrensing_av_omfang"><a class="link" href="#_avgrensing_av_omfang">Avgrensing av omfang</a></h3>
 <div class="sect3">
-<h4 id="_hvorfor_6"><a class="anchor" href="#_hvorfor_6"></a>Hvorfor</h4>
+<h4 id="_hvorfor_6"><a class="link" href="#_hvorfor_6">Hvorfor</a></h4>
 <div class="paragraph">
 <p>For at et arbeid med begrepskoordinering ikke skal bli for omfattende, er det viktig å avgrense det tydelig.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_forslag_til_fremgangsmåte"><a class="anchor" href="#_forslag_til_fremgangsmåte"></a>Forslag til fremgangsmåte</h4>
+<h4 id="_forslag_til_fremgangsmåte"><a class="link" href="#_forslag_til_fremgangsmåte">Forslag til fremgangsmåte</a></h4>
 <div class="paragraph">
 <p>Arbeidet kan avgrenses ved å svare på spørsmålene under:</p>
 </div>
@@ -2475,22 +2473,22 @@ Eksempel: Andre, relevante fagområder er søknad og opptak, studiestøtte, stud
 </div>
 </div>
 <div class="sect3">
-<h4 id="_tips_5"><a class="anchor" href="#_tips_5"></a>Tips</h4>
+<h4 id="_tips_5"><a class="link" href="#_tips_5">Tips</a></h4>
 <div class="paragraph">
 <p>Svarene kan dokumenteres ved hjelp av f.eks. et tekstdokument eller en informasjonsmodell.</p>
 </div>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_identifisering_av_sentrale_begreper"><a class="anchor" href="#_identifisering_av_sentrale_begreper"></a>Identifisering av sentrale begreper</h3>
+<h3 id="_identifisering_av_sentrale_begreper"><a class="link" href="#_identifisering_av_sentrale_begreper">Identifisering av sentrale begreper</a></h3>
 <div class="sect3">
-<h4 id="_hvorfor_7"><a class="anchor" href="#_hvorfor_7"></a>Hvorfor</h4>
+<h4 id="_hvorfor_7"><a class="link" href="#_hvorfor_7">Hvorfor</a></h4>
 <div class="paragraph">
 <p>For å kunne identifisere begreper som skal harmoniseres eller differensieres.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_forslag_til_framgangsmåte_6"><a class="anchor" href="#_forslag_til_framgangsmåte_6"></a>Forslag til framgangsmåte</h4>
+<h4 id="_forslag_til_framgangsmåte_6"><a class="link" href="#_forslag_til_framgangsmåte_6">Forslag til framgangsmåte</a></h4>
 <div class="paragraph">
 <p>Arbeidet med å lage en liste over sentrale begreper kan ta utgangspunkt i avgrensningen i forrige trinn. Det kan gjøres ved å svare på noen spørsmål.</p>
 </div>
@@ -2563,21 +2561,21 @@ Eksempel på begreper: ‘studiestart’, ‘studieår’, ‘høstsemester’, 
 </div>
 </div>
 <div class="sect2">
-<h3 id="_identifisering_av_interessenter"><a class="anchor" href="#_identifisering_av_interessenter"></a>Identifisering av interessenter</h3>
+<h3 id="_identifisering_av_interessenter"><a class="link" href="#_identifisering_av_interessenter">Identifisering av interessenter</a></h3>
 <div class="sect3">
-<h4 id="_hvorfor_8"><a class="anchor" href="#_hvorfor_8"></a>Hvorfor</h4>
+<h4 id="_hvorfor_8"><a class="link" href="#_hvorfor_8">Hvorfor</a></h4>
 <div class="paragraph">
 <p>For å identifisere hvem som forvalter og bruker begrepene og hvem begrepene angår, slik at relevante interessenter blir involvert i eller informert om arbeidet.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_forslag_til_framgangsmåte_7"><a class="anchor" href="#_forslag_til_framgangsmåte_7"></a>Forslag til framgangsmåte</h4>
+<h4 id="_forslag_til_framgangsmåte_7"><a class="link" href="#_forslag_til_framgangsmåte_7">Forslag til framgangsmåte</a></h4>
 <div class="paragraph">
 <p><a href="https://www.prosjektveiviseren.no/god-praksis/viktige-tema-i-alle-faser/interessenter"><em>Prosjektveiviseren</em></a> gir en god veiledning på interessentanalyse:</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_tips_6"><a class="anchor" href="#_tips_6"></a>Tips</h4>
+<h4 id="_tips_6"><a class="link" href="#_tips_6">Tips</a></h4>
 <div class="paragraph">
 <p>Det kan være en god idé å stille følgende spørsmål:</p>
 </div>
@@ -2600,15 +2598,15 @@ Eksempel på begreper: ‘studiestart’, ‘studieår’, ‘høstsemester’, 
 </div>
 </div>
 <div class="sect2">
-<h3 id="_invitasjon_til_å_delta_i_prosjektarbeid"><a class="anchor" href="#_invitasjon_til_å_delta_i_prosjektarbeid"></a>Invitasjon til å delta i prosjektarbeid</h3>
+<h3 id="_invitasjon_til_å_delta_i_prosjektarbeid"><a class="link" href="#_invitasjon_til_å_delta_i_prosjektarbeid">Invitasjon til å delta i prosjektarbeid</a></h3>
 <div class="sect3">
-<h4 id="_hvorfor_9"><a class="anchor" href="#_hvorfor_9"></a>Hvorfor</h4>
+<h4 id="_hvorfor_9"><a class="link" href="#_hvorfor_9">Hvorfor</a></h4>
 <div class="paragraph">
 <p>For å sikre at riktige deltakere med riktig kompetanse er med i arbeidet, og at rollene er tydeliggjort.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_forslag_til_framgangsmåte_8"><a class="anchor" href="#_forslag_til_framgangsmåte_8"></a>Forslag til framgangsmåte</h4>
+<h4 id="_forslag_til_framgangsmåte_8"><a class="link" href="#_forslag_til_framgangsmåte_8">Forslag til framgangsmåte</a></h4>
 <div class="paragraph">
 <p><a href="https://www.prosjektveiviseren.no/"><em>Prosjektveiviseren</em></a> gir en god veiledning om bl.a. prosjektorganisering.</p>
 </div>
@@ -2617,7 +2615,7 @@ Eksempel på begreper: ‘studiestart’, ‘studieår’, ‘høstsemester’, 
 </div>
 </div>
 <div class="sect3">
-<h4 id="_tips_7"><a class="anchor" href="#_tips_7"></a>Tips</h4>
+<h4 id="_tips_7"><a class="link" href="#_tips_7">Tips</a></h4>
 <div class="paragraph">
 <p>Når gruppa settes sammen, er det en god idé å ta hensyn til følgende:</p>
 </div>
@@ -2660,21 +2658,21 @@ Eksempel på begreper: ‘studiestart’, ‘studieår’, ‘høstsemester’, 
 </div>
 </div>
 <div class="sect2">
-<h3 id="_fastsettelse_av_termer_og_definisjoner"><a class="anchor" href="#_fastsettelse_av_termer_og_definisjoner"></a>Fastsettelse av termer og definisjoner</h3>
+<h3 id="_fastsettelse_av_termer_og_definisjoner"><a class="link" href="#_fastsettelse_av_termer_og_definisjoner">Fastsettelse av termer og definisjoner</a></h3>
 <div class="sect3">
-<h4 id="_hvorfor_10"><a class="anchor" href="#_hvorfor_10"></a>Hvorfor</h4>
+<h4 id="_hvorfor_10"><a class="link" href="#_hvorfor_10">Hvorfor</a></h4>
 <div class="paragraph">
 <p>For å sikre at termer og definisjoner er beskrevet og dokumentert.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_forslag_til_framgangsmåte_9"><a class="anchor" href="#_forslag_til_framgangsmåte_9"></a>Forslag til framgangsmåte</h4>
+<h4 id="_forslag_til_framgangsmåte_9"><a class="link" href="#_forslag_til_framgangsmåte_9">Forslag til framgangsmåte</a></h4>
 <div class="paragraph">
 <p>Følg terminologiske metoder ved fastsetting av termer og definisjoner: analyser begrep - lag definisjon - fastsett term. Dersom flere virksomheter er involvert, bør de først gjøre dette hver for seg.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_tips_8"><a class="anchor" href="#_tips_8"></a>Tips</h4>
+<h4 id="_tips_8"><a class="link" href="#_tips_8">Tips</a></h4>
 <div class="paragraph">
 <p><a href="https://www.sprakradet.no/Sprakarbeid/Terminologi/">Språkrådets nettsider</a> gir mer informasjon om terminologi.</p>
 </div>
@@ -2692,16 +2690,16 @@ Eksempel på begreper: ‘studiestart’, ‘studieår’, ‘høstsemester’, 
 </div>
 </div>
 <div class="sect1">
-<h2 id="vedlegg-d"><a class="anchor" href="#vedlegg-d"></a>Vedlegg D (ikke-normativt) - Viktigste endringer fra versjon 1 til denne versjon av standarden</h2>
+<h2 id="vedlegg-d"><a class="link" href="#vedlegg-d">Vedlegg D (ikke-normativt) - Viktigste endringer fra versjon 1 til denne versjon av standarden</a></h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_endringer_fra_versjon_2_0_til_2_0_x"><a class="anchor" href="#_endringer_fra_versjon_2_0_til_2_0_x"></a>Endringer fra versjon 2.0 til 2.0.x</h3>
+<h3 id="_endringer_fra_versjon_2_0_til_2_0_x"><a class="link" href="#_endringer_fra_versjon_2_0_til_2_0_x">Endringer fra versjon 2.0 til 2.0.x</a></h3>
 <div class="paragraph">
 <p>Det er kun redaksjonelle endringer fra versjon 2.0 til 2.0.x, som ikke beskrives her i vedlegget. Med redaksjonelle endringer menes bl.a. endringer i formatering/strukturering eller justeringer i tekst/tegninger/tabeller/eksempler som ikke endrer kravene i standarden. <a href="mailto:informasjonsforvaltning@digdir.no">Ta kontakt med Digitaliseringsdirektoratet</a> for mer informasjon om de redaksjonelle endringene.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_endringer_fra_versjon_1_0_til_2_0"><a class="anchor" href="#_endringer_fra_versjon_1_0_til_2_0"></a>Endringer fra versjon 1.0 til 2.0</h3>
+<h3 id="_endringer_fra_versjon_1_0_til_2_0"><a class="link" href="#_endringer_fra_versjon_1_0_til_2_0">Endringer fra versjon 1.0 til 2.0</a></h3>
 <div class="paragraph">
 <p>Viktigste endringer fra versjon 1 til denne versjon av standarden:</p>
 </div>
@@ -2741,7 +2739,7 @@ ga('send', 'pageview');
 </div>
 <div id="footer">
 <div id="footer-text">
-Sist oppdatert 2023-02-20 08:34:42 UTC
+Sist oppdatert 2024-08-08 13:12:27 UTC
 </div>
 </div>
 </body>
