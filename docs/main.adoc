@@ -18,9 +18,9 @@ ifdef::backend-pdf[:toc: macro]
 image::Digdir.png[width=50%, pdfwidth=30vw, link=https://digdir.no/]
 
 *Status*: Gjeldende +
-*Versjon*: 2.0.2 + 
+*Versjon*: 2.0.3 + 
 *Publisert*: 2020-05-08 (v. 2.0) +
-*Oppdatert*: 2023-02-20 (v. 2.0.2) +
+*Oppdatert*: 2025-09-01 (v. 2.0.x) +
 *Gjeldende versjon*: https://data.norge.no/specification/forvaltningsstandard-begrepskoordinering + 
 *Redaktørens utkast*: https://informasjonsforvaltning.github.io/forvaltningsstandard-begrepskoordinering 
 
