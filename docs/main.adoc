@@ -10,7 +10,7 @@ Digitaliseringsdirektoratet (Digdir) / The Norwegian Digitalisation Agency
 ifdef::backend-pdf[:toc: macro]
 :toc-title: Innholdsfortegnelse
 :toclevels: 4
-:sectanchors:
+:sectlinks:
 :table-stripes: odd
 :imagesdir: images
 :title-logo-image: image:Digdir.png[pdfwidth=30vw]
@@ -32,7 +32,7 @@ image::Digdir.png[width=50%, pdfwidth=30vw, link=https://digdir.no/]
 
 //{description}
 
-include::shared/download.adoc[]
+include::download.adoc[]
 
 NOTE: *Innmelding av feil og mangler:* +
 Dersom du finner feil eller mangler i standarden, ber vi om at dette meldes inn på https://github.com/Informasjonsforvaltning/forvaltningsstandard-begrepskoordinering/issues[Github Issues]. Dersom du ikke allerede har bruker på Github kan du opprette bruker gratis.
@@ -61,4 +61,5 @@ include::vedlegg-c-forarbeid.adoc[]
 
 include::vedlegg-d-endringslogg.adoc[]
 
-include::shared/stats.adoc[]
+// Analytics
+include::shared/analytics.adoc[]
