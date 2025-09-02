@@ -4,8 +4,8 @@ Følgende referanser er normative og danner grunnlag for denne standarden:
 
 * https://data.norge.no/specification/termlosen[_Termlosen_]: forvaltningsstandard som gir en kort innføring i begrepsanalyse og terminologiarbeid.
 
-* https://standard.no/no/Nettbutikk/produktkatalogen/Produktpresentasjon/?ProductID=1131185[NS-ISO 1087:2019 _Terminologiarbeid og terminologivitenskap — Ordliste_]: internasjonal standard som definerer sentrale begreper i terminologi- og begrepsarbeid.
+* https://online.standard.no/nb/ns-iso-1087-2019[NS-ISO 1087:2019 _Terminologiarbeid og terminologivitenskap — Ordliste_]: internasjonal standard som definerer sentrale begreper i terminologi- og begrepsarbeid.
 
-* https://standard.no/no/Nettbutikk/produktkatalogen/Produktpresentasjon/?ProductID=301717[ISO 860:2007 _Terminology work — Harmonization of concepts and terms_]: internasjonal standard for begrepsharmonisering.
+* https://online.standard.no/en/iso-860-2007-3[ISO 860:2007 _Terminology work — Harmonization of concepts and terms_]: internasjonal standard for begrepsharmonisering.
 
 * https://data.norge.no/specification/skos-ap-no-begrep[_Forvaltningsstandard for begrepsbeskrivelser (SKOS-AP-NO)_]: forvaltningsstandard for begrepsbeskrivelser.
