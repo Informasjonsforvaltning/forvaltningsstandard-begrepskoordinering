@@ -82,7 +82,7 @@ For å identifisere hvem som forvalter og bruker begrepene og hvem begrepene ang
 
 ==== Forslag til framgangsmåte
 
-https://www.prosjektveiviseren.no/god-praksis/viktige-tema-i-alle-faser/interessenter[_Prosjektveiviseren_] gir en god veiledning på interessentanalyse:
+https://prosjektveiviseren.digdir.no/god-praksis/interessenter/85[_Prosjektveiviseren_] gir en god veiledning på interessentanalyse:
 
 ==== Tips
 Det kan være en god idé å stille følgende spørsmål:
