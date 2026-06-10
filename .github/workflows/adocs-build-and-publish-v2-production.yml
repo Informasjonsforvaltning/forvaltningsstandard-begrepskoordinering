@@ -13,6 +13,7 @@ on:
 
 jobs:
   upload-files-to-production:
+    if: github.event_name != 'workflow_dispatch' || github.ref == 'refs/heads/v2'
     name: Upload specification to static-rdf-server
     uses: Informasjonsforvaltning/workflows/.github/workflows/specification-upload-files.yaml@main
     with:
